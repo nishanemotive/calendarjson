@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1729227509431",
+    "title": "[SMS] Send upcoming Sale announcement",
+    "description": "Hello! Let's get ready to send the 1st Broadcast for BFCM holiday period.",
+    "start": "2024-10-23",
+    "end": "2024-10-23",
+    "type": "SMS",
+    "url": "https://emotive.io/blog/cool-bfcm",
+    "color": "#e02e2e",
+    "broadcastUrl": "https://emotiveapp.co/broadcast?title=abcd"
+  },
+  {
+    "id": "1729227637853",
+    "title": "[TASK] Capture SMS subscriber from your Email list",
+    "description": "Grow your SMS List, and get more of your fans onto SMS VIP Club",
+    "start": "2024-10-30",
+    "end": "2024-10-30",
+    "type": "Task",
+    "url": "https://emotive.io/blog/email-invite",
+    "color": "#0ce44d",
+    "broadcastUrl": ""
+  }
+]
