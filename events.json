@@ -155,7 +155,7 @@
   },
   {
     "id": "1730906862949",
-    "title": "Task - Set Up Automated Flows for BFCM",
+    "title": "Task: Set Up Automated Flows for BFCM",
     "description": "Ensure automated abandoned emails and SMS are ready to trigger during BFCM. Tailor messaging to include urgency and highlight limited-time deals.",
     "start": "2024-11-07",
     "end": "2024-11-07",
@@ -166,7 +166,7 @@
   },
   {
     "id": "1730906938721",
-    "title": "Task - Finalize Inventory Checks",
+    "title": "Task: Finalize Inventory Checks",
     "description": "Stock Assessment: Make sure high-demand products are well-stocked to avoid running out mid-event.\n\nLow Stock Alerts: Set up alerts for products nearing depletion to adjust promotions accordingly.",
     "start": "2024-11-01",
     "end": "2024-11-01",
@@ -177,7 +177,7 @@
   },
   {
     "id": "1730907086795",
-    "title": "Task - Segment Your Audience",
+    "title": "Task: Segment Your Audience",
     "description": "Create Segments: Divide your SMS list into key groups like VIPs, past purchasers, first-time buyers, and high-intent customers.\n\nTargeted Messaging: Craft specific messages for each segment to personalize the experience and boost conversions.",
     "start": "2024-11-05",
     "end": "2024-11-05",
@@ -188,7 +188,7 @@
   },
   {
     "id": "1730907269075",
-    "title": "Task - Create a BFCM SMS Calendar",
+    "title": "Task: Create a BFCM SMS Calendar",
     "description": "Plan out the exact days and times you’ll send messages. Include reminders for early access, ongoing deals, low-stock warnings, and last-chance offers",
     "start": "2024-11-01",
     "end": "2024-11-01",
@@ -199,7 +199,7 @@
   },
   {
     "id": "1730907308254",
-    "title": "Task - Promote SMS Sign-Up on Other Channels",
+    "title": "Task: Promote SMS Sign-Up on Other Channels",
     "description": "Use email, social media, and your website to encourage customers to join your SMS list before BFCM. Highlight exclusive deals and perks available only through SMS.",
     "start": "2024-11-12",
     "end": "2024-11-12",
@@ -210,7 +210,7 @@
   },
   {
     "id": "1730907372346",
-    "title": "Task - Use SMS to Upsell and Cross-Sell Post-Purchase",
+    "title": "Task: Use SMS to Upsell and Cross-Sell Post-Purchase",
     "description": "Send personalized product recommendations immediately after a customer receives their purchase.\n\nExample: “Thanks for your order! Complete your look with [Related Product] at 10% off. ",
     "start": "2024-11-15",
     "end": "",
@@ -221,7 +221,7 @@
   },
   {
     "id": "1730909131599",
-    "title": "Task - Send Multiple SMS Messages During Black Friday",
+    "title": "Task: Send Multiple SMS Messages During Black Friday",
     "description": "Sending more than one message on Black Friday ensures your deals stand out amidst the overwhelming competition. With customers shopping at different times, multiple reminders help create urgency, target various time zones, and capture both early and last-minute buyers. This strategy keeps your brand top-of-mind and maximizes engagement throughout the day.\n\nExamples:\nMorning (8 AM)\nAfternoon (12 PM)\nEvening (6 PM)",
     "start": "2024-11-29",
     "end": "",
