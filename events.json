@@ -314,9 +314,9 @@
     "start": "2024-12-15",
     "end": "2024-12-15",
     "type": "SMS",
-    "url": "https://www.emotiveapp.co/broadcast?&title=Last%20Night%20of%20Hanukkah&message=~%23%7CBRAND%7C%23~%3A%20Light%20up%20the%20last%20night%20of%20Hanukkah%20with%20our%20latest%20this%20Hanukkah.%20Celebrate%20the%20first%20night%20with%20special%20deals%20just%20for%20you.%20Illuminate%20your%20holiday!%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F1zYjR7TyjWnQ4mhsnChBbc%2Fe914477efffc101f50b7a6dfdca200b7%2FGIF_-15_Hanukkah.gif&utm_medium=guide",
+    "url": "",
     "color": "#4c11ee",
-    "broadcastUrl": ""
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Last%20Night%20of%20Hanukkah&message=~%23%7CBRAND%7C%23~%3A%20Light%20up%20the%20last%20night%20of%20Hanukkah%20with%20our%20latest%20this%20Hanukkah.%20Celebrate%20the%20first%20night%20with%20special%20deals%20just%20for%20you.%20Illuminate%20your%20holiday!%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F1zYjR7TyjWnQ4mhsnChBbc%2Fe914477efffc101f50b7a6dfdca200b7%2FGIF_-15_Hanukkah.gif&utm_medium=guide"
   },
   {
     "id": "1734626692923",
@@ -325,9 +325,9 @@
     "start": "2024-12-23",
     "end": "2024-12-23",
     "type": "SMS",
-    "url": "https://www.emotiveapp.co/broadcast?&title=Super%20Saturday&message=~%23%7CBRAND%7C%23~%3A%20%F0%9F%8E%89%20Super%20Saturday%20Alert!%20%F0%9F%8E%89%20Get%20your%20last-minute%20gifts%20with%20fantastic%20deals%20only%20available%20today!%20Hurry%2C%20shop%20now%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F5Ds5WIQBqUH4lACdK5ZQvR%2F51945ff84b967f1cf45c57779135535e%2FGIF_-17_Super_Saturday.gif&utm_medium=guide",
+    "url": "",
     "color": "#4c11ee",
-    "broadcastUrl": ""
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Super%20Saturday&message=~%23%7CBRAND%7C%23~%3A%20%F0%9F%8E%89%20Super%20Saturday%20Alert!%20%F0%9F%8E%89%20Get%20your%20last-minute%20gifts%20with%20fantastic%20deals%20only%20available%20today!%20Hurry%2C%20shop%20now%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F5Ds5WIQBqUH4lACdK5ZQvR%2F51945ff84b967f1cf45c57779135535e%2FGIF_-17_Super_Saturday.gif&utm_medium=guide"
   },
   {
     "id": "1734626837238",
@@ -336,9 +336,9 @@
     "start": "2024-12-24",
     "end": "2024-12-24",
     "type": "SMS",
-    "url": "https://www.emotiveapp.co/broadcast?&title=Christmas%20Eve&message=~%23%7CBRAND%7C%23~%3A%20Hear%20the%20sleigh%20bells%3F%20It's%20not%20too%20late%20for%20last-minute%20miracles%20with%20BRAND%20this%20Christmas%20Eve!%20%F0%9F%8E%85%20Dash%20through%20our%20holiday%20deals%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F5JFDuB4Y8MYe7SXARXqtgG%2F211f29ecaf875e80c46a190889489ac8%2FGIF_-9_Christmas_Eve.gif&utm_medium=guide",
+    "url": "",
     "color": "#4c11ee",
-    "broadcastUrl": ""
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Christmas%20Eve&message=~%23%7CBRAND%7C%23~%3A%20Hear%20the%20sleigh%20bells%3F%20It's%20not%20too%20late%20for%20last-minute%20miracles%20with%20BRAND%20this%20Christmas%20Eve!%20%F0%9F%8E%85%20Dash%20through%20our%20holiday%20deals%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F5JFDuB4Y8MYe7SXARXqtgG%2F211f29ecaf875e80c46a190889489ac8%2FGIF_-9_Christmas_Eve.gif&utm_medium=guide"
   },
   {
     "id": "1734627012411",
@@ -347,9 +347,9 @@
     "start": "2024-12-25",
     "end": "2024-12-25",
     "type": "SMS",
-    "url": "https://www.emotiveapp.co/broadcast?&title=Christmas%20Day&message=Wishing%20you%20a%20cozy%20Christmas%20Day%20from%20all%20of%20us%20at%20~%23%7CBRAND%7C%23~!%20%F0%9F%8E%81%20Snuggle%20up%20with%20our%20holiday%20specials%20and%20let%20the%20spirit%20move%20you.%20Shop%20warmth%20%26%20wonder%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F1d59viqultQxD15gkDZ4ZQ%2Ffd430114792bcd8c26e1cc0585f615c7%2FGIF_-10_Christmas_Day.gif&utm_medium=guide",
+    "url": "",
     "color": "#4c11ee",
-    "broadcastUrl": ""
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Christmas%20Day&message=Wishing%20you%20a%20cozy%20Christmas%20Day%20from%20all%20of%20us%20at%20~%23%7CBRAND%7C%23~!%20%F0%9F%8E%81%20Snuggle%20up%20with%20our%20holiday%20specials%20and%20let%20the%20spirit%20move%20you.%20Shop%20warmth%20%26%20wonder%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F1d59viqultQxD15gkDZ4ZQ%2Ffd430114792bcd8c26e1cc0585f615c7%2FGIF_-10_Christmas_Day.gif&utm_medium=guide"
   },
   {
     "id": "1734627173385",
@@ -358,9 +358,9 @@
     "start": "2024-12-25",
     "end": "2024-12-25",
     "type": "SMS",
-    "url": "https://www.emotiveapp.co/broadcast?&title=Christmas%20Sale%20-%20Announcement&message=Jingle%20all%20the%20way%20to%20savings!%20The%20~%23%7CBRAND%7C%23~!%20Christmas%20Sale%20is%20here%20-%20exclusive%20deals%20just%20for%20you.%F0%9F%8E%84%20Dive%20into%20the%20festive%20cheer%20and%20save%20big%3A%20~%23%7CLINK%7C%23~%20Offer%20valid%20till%20~%23%7CDATE%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F7IRrT3iQzEACMS8Q9N5VEh%2F189d91a9f76aace0703794895782d6e0%2FGIF_-3_Christmas_Sale_-_Announcement.gif&utm_medium=guide",
+    "url": "",
     "color": "#4c11ee",
-    "broadcastUrl": ""
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Christmas%20Sale%20-%20Announcement&message=Jingle%20all%20the%20way%20to%20savings!%20The%20~%23%7CBRAND%7C%23~!%20Christmas%20Sale%20is%20here%20-%20exclusive%20deals%20just%20for%20you.%F0%9F%8E%84%20Dive%20into%20the%20festive%20cheer%20and%20save%20big%3A%20~%23%7CLINK%7C%23~%20Offer%20valid%20till%20~%23%7CDATE%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F7IRrT3iQzEACMS8Q9N5VEh%2F189d91a9f76aace0703794895782d6e0%2FGIF_-3_Christmas_Sale_-_Announcement.gif&utm_medium=guide"
   },
   {
     "id": "1734627685159",
@@ -369,9 +369,9 @@
     "start": "2024-12-25",
     "end": "2024-12-25",
     "type": "SMS",
-    "url": "https://www.emotiveapp.co/broadcast?&title=Christmas%20Sale%20-%20Reminder&message=~%23%7CBRAND%7C%23~%3A%20Wish%20upon%20a%20star%20because%20Christmas%20wishes%20have%20been%20coming%20true%20with%20our%20sale!%20%F0%9F%8C%A0%20Up%20to%20~%23%7CDISCOUNT%7C%23~%25%20off%20starts%20now.%20Don't%20wait%20for%20Santa%2C%20grab%20your%20deals%3A%20~%23%7CLINK%7C%23~%20Sale%20till%20~%23%7CDATE%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F7HjtWZPjOzjmj1Oht6KHI8%2F5847fee0c41848b75b42ba82ec22af56%2FGIF_-4_Christmas_Sale_-_Reminder.gif&utm_medium=guide",
+    "url": "",
     "color": "#4c11ee",
-    "broadcastUrl": ""
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Christmas%20Sale%20-%20Reminder&message=~%23%7CBRAND%7C%23~%3A%20Wish%20upon%20a%20star%20because%20Christmas%20wishes%20have%20been%20coming%20true%20with%20our%20sale!%20%F0%9F%8C%A0%20Up%20to%20~%23%7CDISCOUNT%7C%23~%25%20off%20starts%20now.%20Don't%20wait%20for%20Santa%2C%20grab%20your%20deals%3A%20~%23%7CLINK%7C%23~%20Sale%20till%20~%23%7CDATE%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F7HjtWZPjOzjmj1Oht6KHI8%2F5847fee0c41848b75b42ba82ec22af56%2FGIF_-4_Christmas_Sale_-_Reminder.gif&utm_medium=guide"
   },
   {
     "id": "1734628086405",
@@ -380,9 +380,9 @@
     "start": "2024-12-25",
     "end": "2024-12-25",
     "type": "SMS",
-    "url": "https://www.emotiveapp.co/broadcast?&title=Christmas%20Sale%20-%20Last%20Chance&message=~%23%7CBRAND%7C%23~%3A%20Final%20hours!%20Don%E2%80%99t%20miss%20out%20on%20our%20festive%20deals.%20Up%20to%20~%23%7CDISCOUNT%7C%23~%25%20off%20ends%20at%20midnight.%20Grab%20your%20last-minute%20gifts%20now%3A%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F5A1XgMVqlW3cBQqVFkeYvm%2F37d2b6df65c5aaad7416649db5a56f59%2FGIF_-5_Christmas_Sale_-_Last_Chance.gif&utm_medium=guide",
+    "url": "",
     "color": "#4c11ee",
-    "broadcastUrl": ""
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Christmas%20Sale%20-%20Last%20Chance&message=~%23%7CBRAND%7C%23~%3A%20Final%20hours!%20Don%E2%80%99t%20miss%20out%20on%20our%20festive%20deals.%20Up%20to%20~%23%7CDISCOUNT%7C%23~%25%20off%20ends%20at%20midnight.%20Grab%20your%20last-minute%20gifts%20now%3A%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F5A1XgMVqlW3cBQqVFkeYvm%2F37d2b6df65c5aaad7416649db5a56f59%2FGIF_-5_Christmas_Sale_-_Last_Chance.gif&utm_medium=guide"
   },
   {
     "id": "1734628223084",
@@ -391,9 +391,9 @@
     "start": "2024-12-26",
     "end": "2024-12-26",
     "type": "SMS",
-    "url": "https://www.emotiveapp.co/broadcast?&title=Boxing%20Day&message=~%23%7CBRAND%7C%23~%3A%20%F0%9F%93%A6%20Box%20up%20the%20savings!%20Our%20Boxing%20Day%20Sale%20is%20a%20knockout%20-%20up%20to%20~%23%7CDISCOUNT%7C%23~%25%20off%20everything.%20Shop%20till%20you%20drop!%20%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F6s7vMmJzDYxsuHi1mbOfxX%2F9583aca065afb2751154d5500ee1885c%2FGIF_-16_Boxing_Day.gif&utm_medium=guide",
+    "url": "",
     "color": "#4c11ee",
-    "broadcastUrl": ""
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Boxing%20Day&message=~%23%7CBRAND%7C%23~%3A%20%F0%9F%93%A6%20Box%20up%20the%20savings!%20Our%20Boxing%20Day%20Sale%20is%20a%20knockout%20-%20up%20to%20~%23%7CDISCOUNT%7C%23~%25%20off%20everything.%20Shop%20till%20you%20drop!%20%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F6s7vMmJzDYxsuHi1mbOfxX%2F9583aca065afb2751154d5500ee1885c%2FGIF_-16_Boxing_Day.gif&utm_medium=guide"
   },
   {
     "id": "1734628346490",
@@ -402,9 +402,9 @@
     "start": "2024-12-26",
     "end": "2024-12-26",
     "type": "SMS",
-    "url": "https://www.emotiveapp.co/broadcast?&title=Kwanzaa%20Begins&message=~%23%7CBRAND%7C%23~%3A%20Happy%20Kwanzaa!%20%F0%9F%95%AF%EF%B8%8F%20Let's%20celebrate%20unity%2C%20self-determination%2C%20and%20collective%20work%20and%20responsibility.%20Begin%20this%20vibrant%20cultural%20celebration%20with%20us.%20Enjoy%20special%20offers%3A%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F2rq2AvSFItIK6WTFp6GmsZ%2F4f848f55cb61be34f994ec6192036010%2FGIF_-11_Kwanzaa.gif&utm_medium=guide",
+    "url": "",
     "color": "#4c11ee",
-    "broadcastUrl": ""
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Kwanzaa%20Begins&message=~%23%7CBRAND%7C%23~%3A%20Happy%20Kwanzaa!%20%F0%9F%95%AF%EF%B8%8F%20Let's%20celebrate%20unity%2C%20self-determination%2C%20and%20collective%20work%20and%20responsibility.%20Begin%20this%20vibrant%20cultural%20celebration%20with%20us.%20Enjoy%20special%20offers%3A%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F2rq2AvSFItIK6WTFp6GmsZ%2F4f848f55cb61be34f994ec6192036010%2FGIF_-11_Kwanzaa.gif&utm_medium=guide"
   },
   {
     "id": "1734628627648",
@@ -413,9 +413,9 @@
     "start": "2024-12-21",
     "end": "2024-12-21",
     "type": "SMS",
-    "url": "https://www.emotiveapp.co/broadcast?&title=Winter%20Solstice&message=~%23%7CBRAND%7C%23~%3A%20The%20shortest%20day%2C%20the%20sweetest%20deal!%20Celebrate%20the%20season%20with%20~%23%7CDISCOUNT%7C%23~%20%25%20off%20PRODUCT.%20Our%20Winter%20Solstice%20Sale%20ends%20~%23%7CDATE%7C%23~%2C%20so%20hurry%E2%80%94shop%20now%3A%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F3w1rDAtLvcJkUobSdLKzEw%2Fb1b323f33e32b21d06368c2c1b746f96%2FGIF_-18_First_Day_of_Winter.gif&utm_medium=guide",
+    "url": "",
     "color": "#4c11ee",
-    "broadcastUrl": ""
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Winter%20Solstice&message=~%23%7CBRAND%7C%23~%3A%20The%20shortest%20day%2C%20the%20sweetest%20deal!%20Celebrate%20the%20season%20with%20~%23%7CDISCOUNT%7C%23~%20%25%20off%20PRODUCT.%20Our%20Winter%20Solstice%20Sale%20ends%20~%23%7CDATE%7C%23~%2C%20so%20hurry%E2%80%94shop%20now%3A%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F3w1rDAtLvcJkUobSdLKzEw%2Fb1b323f33e32b21d06368c2c1b746f96%2FGIF_-18_First_Day_of_Winter.gif&utm_medium=guide"
   },
   {
     "id": "1734629345745",
@@ -424,9 +424,9 @@
     "start": "2024-12-27",
     "end": "2024-12-27",
     "type": "SMS",
-    "url": "https://www.emotiveapp.co/broadcast?&title=National%20Fruitcake%20Day&message=~%23%7CBRAND%7C%23~%3A%20Did%20you%20know%20fruitcake%20is%20the%20OG%20of%20holiday%20treats%3F%20%F0%9F%A5%AECelebrate%20National%20Fruitcake%20Day%20with%20~%23%7CDISCOUNT%7C%23~%25%20off%20and%20sweeten%20up%20your%20day%20with%20a%20slice%20of%20history!%20Shop%20here%3A%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F5Q0b8gQewmkS0BbhWVjBxq%2F5ed85a5590a4447c99b527c8901b4381%2FGIF_-1_Holiday_Gifting.gif&utm_medium=guide",
+    "url": "",
     "color": "#4c11ee",
-    "broadcastUrl": ""
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Fruitcake%20Day&message=~%23%7CBRAND%7C%23~%3A%20Did%20you%20know%20fruitcake%20is%20the%20OG%20of%20holiday%20treats%3F%20%F0%9F%A5%AECelebrate%20National%20Fruitcake%20Day%20with%20~%23%7CDISCOUNT%7C%23~%25%20off%20and%20sweeten%20up%20your%20day%20with%20a%20slice%20of%20history!%20Shop%20here%3A%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F5Q0b8gQewmkS0BbhWVjBxq%2F5ed85a5590a4447c99b527c8901b4381%2FGIF_-1_Holiday_Gifting.gif&utm_medium=guide"
   },
   {
     "id": "1734629534536",
@@ -435,9 +435,9 @@
     "start": "2024-12-19",
     "end": "2024-12-19",
     "type": "SMS",
-    "url": "https://www.emotiveapp.co/broadcast?&title=Holiday%20Shipping%20-%20Last%20Call&message=~%23%7CBRAND%7C%23~%3A%20Last%20call%20for%20for%20holiday%20delivery%20on%20standard%20shipping!%20Don%E2%80%99t%20wait%20til%20it%E2%80%99s%20too%20late%2C%20shop%20TODAY%3A%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F7l7wkMJqwmxtK0kmS0nZhp%2F68db4f14072b536d917f621a2a0e0d24%2FShipping_Deadline_Last_Call.gif&utm_medium=guide",
+    "url": "",
     "color": "#4f11ee",
-    "broadcastUrl": ""
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Holiday%20Shipping%20-%20Last%20Call&message=~%23%7CBRAND%7C%23~%3A%20Last%20call%20for%20for%20holiday%20delivery%20on%20standard%20shipping!%20Don%E2%80%99t%20wait%20til%20it%E2%80%99s%20too%20late%2C%20shop%20TODAY%3A%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F7l7wkMJqwmxtK0kmS0nZhp%2F68db4f14072b536d917f621a2a0e0d24%2FShipping_Deadline_Last_Call.gif&utm_medium=guide"
   },
   {
     "id": "1734629648220",
@@ -446,9 +446,9 @@
     "start": "2024-12-18",
     "end": "2024-12-18",
     "type": "SMS",
-    "url": "https://www.emotiveapp.co/broadcast?&title=Holiday%20Shipping%20-%20Second%20Reminder&message=~%23%7CBRAND%7C%23~%3A%20Hey%20~%23%7CNAME%7C%23~!%20Order%20by%20~%23%7CDATE%7C%23~%20for%20guaranteed%20delivery%20by%20the%20holidays.%20Sleigh's%20loading%20up%2C%20hurry!%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F5b9cIxkfywJVUjZ96pfMC3%2Fa85ce5f1f996f8d032c8e379874c0718%2FShipping_Deadline.gif&utm_medium=guide",
+    "url": "",
     "color": "#4f11ee",
-    "broadcastUrl": ""
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Holiday%20Shipping%20-%20Second%20Reminder&message=~%23%7CBRAND%7C%23~%3A%20Hey%20~%23%7CNAME%7C%23~!%20Order%20by%20~%23%7CDATE%7C%23~%20for%20guaranteed%20delivery%20by%20the%20holidays.%20Sleigh's%20loading%20up%2C%20hurry!%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F5b9cIxkfywJVUjZ96pfMC3%2Fa85ce5f1f996f8d032c8e379874c0718%2FShipping_Deadline.gif&utm_medium=guide"
   },
   {
     "id": "1734629751306",
@@ -456,10 +456,10 @@
     "description": "If you're offering free shipping or a special rate for more than one day, try sending a reminder to your subscribers who clicked on the link of the first announcement, but haven't made a purchase yet.",
     "start": "2024-12-17",
     "end": "2024-12-17",
-    "type": "Task",
-    "url": "https://www.emotiveapp.co/broadcast?&title=Holiday%20Shipping%20-%20First%20Reminder&message=~%23%7CBRAND%7C%23~%3A%20No%20time%20to%20waste%2C%20~%23%7CNAME%7C%23~!%20Order%20today%20by%20~%23%7CDATE%7C%23~%20for%20assured%20delivery.%20Start%20shopping%3A%20%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F2iHSDuVjEAGluk4vNDNq7m%2Fc2f8f034e8883fd7f9dcbcedc5aca183%2FShipping-Deadline-Reminder.gif&utm_medium=guide",
+    "type": "SMS",
+    "url": "",
     "color": "#4f11ee",
-    "broadcastUrl": ""
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Holiday%20Shipping%20-%20First%20Reminder&message=~%23%7CBRAND%7C%23~%3A%20No%20time%20to%20waste%2C%20~%23%7CNAME%7C%23~!%20Order%20today%20by%20~%23%7CDATE%7C%23~%20for%20assured%20delivery.%20Start%20shopping%3A%20%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F2iHSDuVjEAGluk4vNDNq7m%2Fc2f8f034e8883fd7f9dcbcedc5aca183%2FShipping-Deadline-Reminder.gif&utm_medium=guide"
   },
   {
     "id": "1734630031539",
@@ -468,9 +468,9 @@
     "start": "2024-12-20",
     "end": "2024-12-20",
     "type": "SMS",
-    "url": "https://www.emotiveapp.co/broadcast?&title=Rewards%20Program&message=~%23%7CBRAND%7C%23~%3A%20Shop%20%26%20earn%20this%20holiday!%20Join%20our%20rewards%20program%20for%20instant%20perks%20%2B%20bonus%20points%20on%20every%20purchase%3A%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F2VDIdTKm36V2x2slV7Fi4B%2Fb248b231a7ae8287a391ff445396f848%2FRewards_Program.gif&utm_medium=guide",
+    "url": "",
     "color": "#4f11ee",
-    "broadcastUrl": ""
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Rewards%20Program&message=~%23%7CBRAND%7C%23~%3A%20Shop%20%26%20earn%20this%20holiday!%20Join%20our%20rewards%20program%20for%20instant%20perks%20%2B%20bonus%20points%20on%20every%20purchase%3A%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F2VDIdTKm36V2x2slV7Fi4B%2Fb248b231a7ae8287a391ff445396f848%2FRewards_Program.gif&utm_medium=guide"
   },
   {
     "id": "1734630232795",
@@ -479,9 +479,9 @@
     "start": "2024-12-22",
     "end": "2024-12-22",
     "type": "SMS",
-    "url": "https://www.emotiveapp.co/broadcast?&title=Holiday%20Giving&message=~%23%7CBRAND%7C%23~%3A%20This%20season%2C%20your%20shopping%20makes%20a%20difference.%20~%23%7CDISCOUNT%7C%23~%25%20goes%20to%20~%23%7CORGANIZATION%7C%23~%20through%20~%23%7CDATE%7C%23~.%20Join%20us%20in%20giving%20back%3A%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F1fSnj3mTJBz5q3c0ZgDH3t%2Fc9391ceaf6657b93146ee8da58af0af8%2FGIF_-4_Holiday_Giving.gif&utm_medium=guide",
+    "url": "",
     "color": "#4f11ee",
-    "broadcastUrl": ""
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Holiday%20Giving&message=~%23%7CBRAND%7C%23~%3A%20This%20season%2C%20your%20shopping%20makes%20a%20difference.%20~%23%7CDISCOUNT%7C%23~%25%20goes%20to%20~%23%7CORGANIZATION%7C%23~%20through%20~%23%7CDATE%7C%23~.%20Join%20us%20in%20giving%20back%3A%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F1fSnj3mTJBz5q3c0ZgDH3t%2Fc9391ceaf6657b93146ee8da58af0af8%2FGIF_-4_Holiday_Giving.gif&utm_medium=guide"
   },
   {
     "id": "1734630356585",
@@ -490,9 +490,9 @@
     "start": "2024-12-16",
     "end": "2024-12-16",
     "type": "SMS",
-    "url": "https://www.emotiveapp.co/broadcast?&title=Holiday%20Gift%20Cards&message=~%23%7CBRAND%7C%23~%3A%20Still%20shopping%3F%20We%E2%80%99ve%20got%20you%20covered!%20%F0%9F%8E%81%20Send%20an%20e-gift%20card%2C%20and%20we%E2%80%99ll%20deliver%20it%20straight%20to%20their%20inbox.%20Instant%20delivery%2C%20no%20wrapping%20needed.%20Shop%20now%3A%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F21euppppHZ30yTuf3ZhHUs%2F082212292f5eb629ae7716c222da230d%2FGift_Cards.gif&utm_medium=guide",
+    "url": "",
     "color": "#4f11ee",
-    "broadcastUrl": ""
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Holiday%20Gift%20Cards&message=~%23%7CBRAND%7C%23~%3A%20Still%20shopping%3F%20We%E2%80%99ve%20got%20you%20covered!%20%F0%9F%8E%81%20Send%20an%20e-gift%20card%2C%20and%20we%E2%80%99ll%20deliver%20it%20straight%20to%20their%20inbox.%20Instant%20delivery%2C%20no%20wrapping%20needed.%20Shop%20now%3A%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F21euppppHZ30yTuf3ZhHUs%2F082212292f5eb629ae7716c222da230d%2FGift_Cards.gif&utm_medium=guide"
   },
   {
     "id": "1734632866304",
@@ -501,9 +501,9 @@
     "start": "2024-12-31",
     "end": "2024-12-31",
     "type": "SMS",
-    "url": "https://www.emotiveapp.co/broadcast?&title=New%20Year's%20Eve&message=~%23%7CBRAND%7C%23~%3A%205...4...3...2...1...%20Happy%20New%20Savings!%20%F0%9F%8E%8A%20Jumpstart%202024%20with%20fantastic%20deals%20up%20to%20XX%25!%20Your%20countdown%20to%20savings%20starts%20now%3A%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F5HdAAUCOaBC6LHBpvEZLIY%2F1df6dcfc8ab0c899ec774cd6f33f017d%2FGIF_-8_New_Year_s_Day.gif&utm_medium=guide",
+    "url": "",
     "color": "#4c11ee",
-    "broadcastUrl": ""
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=New%20Year's%20Eve&message=~%23%7CBRAND%7C%23~%3A%205...4...3...2...1...%20Happy%20New%20Savings!%20%F0%9F%8E%8A%20Jumpstart%202024%20with%20fantastic%20deals%20up%20to%20XX%25!%20Your%20countdown%20to%20savings%20starts%20now%3A%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F5HdAAUCOaBC6LHBpvEZLIY%2F1df6dcfc8ab0c899ec774cd6f33f017d%2FGIF_-8_New_Year_s_Day.gif&utm_medium=guide"
   },
   {
     "id": "1734633296740",
@@ -512,9 +512,9 @@
     "start": "2024-12-30",
     "end": "2024-12-30",
     "type": "SMS",
-    "url": "https://www.emotiveapp.co/broadcast?&title=End%20of%20Year%20Sale&message=~%23%7CBRAND%7C%23~%3A%20The%20grand%20finale%20you've%20been%20waiting%20for!%20Extra%20XX%25%20off%20clearance%20to%20end%202024%20with%20a%20bang.%20Time%20to%20treat%20yourself%3A%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F3Z3uTzjlS4qLOfnyKSeniU%2F709da829e0c196e3895ff50af30b2cfc%2FGIF_-1_New_Year-s_Sales.gif&utm_medium=guide",
+    "url": "",
     "color": "#4c11ee",
-    "broadcastUrl": ""
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=End%20of%20Year%20Sale&message=~%23%7CBRAND%7C%23~%3A%20The%20grand%20finale%20you've%20been%20waiting%20for!%20Extra%20XX%25%20off%20clearance%20to%20end%202024%20with%20a%20bang.%20Time%20to%20treat%20yourself%3A%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F3Z3uTzjlS4qLOfnyKSeniU%2F709da829e0c196e3895ff50af30b2cfc%2FGIF_-1_New_Year-s_Sales.gif&utm_medium=guide"
   },
   {
     "id": "1734633443822",
@@ -523,9 +523,9 @@
     "start": "2024-12-28",
     "end": "2024-12-28",
     "type": "SMS",
-    "url": "https://www.emotiveapp.co/broadcast?&title=National%20Chocolate%20Candy%20Day&message=~%23%7CBRAND%7C%23~%3A%20Life%20is%20sweeter%20with%20chocolate!%20Treat%20yourself%20to%20something%20special%20this%20National%20Chocolate%20Candy%20Day.%20Shop%20our%20delights%20up%20to%20XX%25%20off%20with%20code%20~%23%7CDISCOUNT%7C%23~%3A%20~%23%7CLINK%7C%23~%20&utm_medium=guide",
+    "url": "",
     "color": "#4c11ee",
-    "broadcastUrl": ""
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Chocolate%20Candy%20Day&message=~%23%7CBRAND%7C%23~%3A%20Life%20is%20sweeter%20with%20chocolate!%20Treat%20yourself%20to%20something%20special%20this%20National%20Chocolate%20Candy%20Day.%20Shop%20our%20delights%20up%20to%20XX%25%20off%20with%20code%20~%23%7CDISCOUNT%7C%23~%3A%20~%23%7CLINK%7C%23~%20&utm_medium=guide"
   },
   {
     "id": "1734633476300",
@@ -534,8 +534,8 @@
     "start": "2024-12-29",
     "end": "2024-12-29",
     "type": "SMS",
-    "url": "https://www.emotiveapp.co/broadcast?&title=National%20Champagne%20Day&message=~%23%7CBRAND%7C%23~%3A%20Time%20to%20pop%20some%20bubbly!%20%F0%9F%A5%82%20National%20Champagne%20Day%20%3D%20XX%25%20off%20site-wide.%20Use%20code%20~%23%7CDISCOUNT%7C%23~%20to%20make%20today%20extra%20special.%20Cheers%20to%20savings%3A%20~%23%7CLINK%7C%23~%20&utm_medium=guide",
+    "url": "",
     "color": "#4c11ee",
-    "broadcastUrl": ""
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Champagne%20Day&message=~%23%7CBRAND%7C%23~%3A%20Time%20to%20pop%20some%20bubbly!%20%F0%9F%A5%82%20National%20Champagne%20Day%20%3D%20XX%25%20off%20site-wide.%20Use%20code%20~%23%7CDISCOUNT%7C%23~%20to%20make%20today%20extra%20special.%20Cheers%20to%20savings%3A%20~%23%7CLINK%7C%23~%20&utm_medium=guide"
   }
 ]
