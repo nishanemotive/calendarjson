@@ -823,5 +823,181 @@
     "url": "",
     "color": "#4c11ee",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Valentine's%20Day%202%2F14%20-%20Order%20Ahead&message=Looking%20for%20the%20perfect%20Valentine's%20gift%3F%20It's%20waiting%20for%20you%20at%20~%23%7CBRAND%7C%23~!%20Grab%20the%20perfect%20gift%20and%20save%20~%23%7CDISCOUNT%7C%23~%25%20with%20~%23%7CCODE%7C%23~%20at%20checkout.%20Don't%20wait%E2%80%94tap%20to%20shop%3A%20%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F56Jbo5OMHQrJQLDzQovD3X%2F6505757b29be3ab2fc662e444d4ba7e9%2FGIF_-6_Valentine-s_Day_-_Order_Ahead.gif&utm_medium=guide"
+  },
+  {
+    "id": "1737477127978",
+    "title": "Valentine's Day - Gift Guide",
+    "description": "Show off your Gift Guides to your subscribers who may be stumped on what to purchase for the big day.\n",
+    "start": "2025-01-27",
+    "end": "2025-01-27",
+    "type": "SMS",
+    "url": "",
+    "color": "#4c11ee",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Valentine's%20Day%20-%20Gift%20Guide&message=~%23%7CBRAND%7C%23~%3A%20Hey%20~%23%7CNAME%7C%23~%2C%20want%20to%20wow%20your%20partner%20this%20Valentine%E2%80%99s%20Day%3F%20%F0%9F%92%9D%20Check%20out%20our%20Gift%20Guides%20for%20some%20awesome%20ideas%3A%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2FoFnrCNl9lboaiAMNYoXFi%2Ff928b7b767382d311ab3e7b9fba881e4%2FGIF_-1_Valentine-s_Day_Gift_Guide.gif&utm_medium=guide"
+  },
+  {
+    "id": "1737477271738",
+    "title": "Valentine's Day - Order Ahead",
+    "description": "Never underestimate the importance of reminding your subscribers to order ahead! Pro tip: offering an incentive like a limited time discount or free shipping will encourage them to move quickly.\n",
+    "start": "2025-01-31",
+    "end": "2025-01-31",
+    "type": "SMS",
+    "url": "",
+    "color": "#4c11ee",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Valentine's%20Day%20-%20Order%20Ahead&message=~%23%7CBRAND%7C%23~%3A%20No%20need%20to%20rush%E2%80%94shop%20early%20and%20beat%20the%20Valentine%E2%80%99s%20Day%20crowd!%20%F0%9F%92%9D%20Order%20ahead%20and%20get%20your%20Valentine%E2%80%99s%20gift%20in%20time.%20Plus%2C%20enjoy%20free%20shipping%20on%20orders%20over%20%24__!%20Start%20shopping%20now%3A%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F56Jbo5OMHQrJQLDzQovD3X%2F6505757b29be3ab2fc662e444d4ba7e9%2FGIF_-6_Valentine-s_Day_-_Order_Ahead.gif&utm_medium=guide"
+  },
+  {
+    "id": "1737477448121",
+    "title": "Valentine's Day - Self Care",
+    "description": "Valentine's Day is the time for love in all forms! Remind your subscribers to treat themselves to something new, too. \n",
+    "start": "2025-02-06",
+    "end": "2025-02-06",
+    "type": "SMS",
+    "url": "",
+    "color": "#4c11ee",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Valentine's%20Day%20-%20Self%20Care&message=~%23%7CBRAND%7C%23~%3A%20Don%E2%80%99t%20forget%20to%20spoil%20yourself%20this%20Valentine%E2%80%99s%20Day!%20%F0%9F%92%96%20%20Show%20yourself%20some%20love%20with%20~%23%7CDISCOUNT%7C%23~%20%25%20off%20and%20FREE%20shipping%20on%20orders%20over%20~%23%7CPRICE%7C%23~%20.%20Tap%20to%20shop%3A%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F5unnH2TU7T8DeGb9K8nXz0%2Fd10bd27e65ff36ac88618a8217333c66%2FGIF_-4_Valentine-s_Day_-_Self_Care.gif&utm_medium=guide"
+  },
+  {
+    "id": "1737477566955",
+    "title": "Valentine's Day - Standard Shipping Deadline",
+    "description": "Send a broadcast to your subscribers with a gentle reminder on the deadline for standard shipping. \n",
+    "start": "2025-02-07",
+    "end": "2025-02-07",
+    "type": "SMS",
+    "url": "",
+    "color": "#4c11ee",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Valentine's%20Day%20-%20Standard%20Shipping%20Deadline&message=~%23%7CBRAND%7C%23~%3A%20Hey%20~%23%7CNAME%7C%23~%20!%20%E2%8F%B3Order%20now%20for%20delivery%20by%202%2F14%20with%20standard%20shipping.%20Today%E2%80%99s%20the%20final%20day%E2%80%94don%E2%80%99t%20miss%20your%20chance%20to%20grab%20the%20perfect%20gift!%20Shop%20here%3A%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F7yfrTfoUZ2iXJOFJ9LwcOy%2F0b847e8aa516563a7a0fa8206341806e%2FGIF_-3_Valentine-s_Day_-_Shipping.gif&utm_medium=guide"
+  },
+  {
+    "id": "1737477920481",
+    "title": "Valentine's Day - 2-Day Shipping Deadline",
+    "description": "Valentine's Day is right around the corner - make sure your subscribers are aware that your 2-day shipping deadline is here with a reminder to order before it's too late. \n",
+    "start": "2025-02-10",
+    "end": "2025-02-10",
+    "type": "SMS",
+    "url": "",
+    "color": "#4c11ee",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Valentine's%20Day%20-%202-Day%20Shipping%20Deadline&message=~%23%7CBRAND%7C%23~%3A%20Hurry%2C%20~%23%7CNAME%7C%23~!%20%F0%9F%8F%83%E2%80%8D%E2%99%82%EF%B8%8F%20Today's%20your%20LAST%20chance%20to%20order%20with%202-day%20shipping%20and%20get%20your%20Valentine's%20Day%20gift%20in%20time.%20Don't%20miss%20out%20-%20shop%20now%3A%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F1prgU5hwB2MnIqXLLt018j%2F50d19f91bb608ead191b09dca2bcc925%2FGIF_-1_Valentine-s_Day_2-Day_Shipping.gif&utm_medium=guide"
+  },
+  {
+    "id": "1737478019846",
+    "title": "Valentine's Day - Gift Cards",
+    "description": "Don't let your subscribers show up empty-handed on the big day! Make sure you send out a broadcast promoting instant delivery gift cards. \n",
+    "start": "2025-02-11",
+    "end": "2025-02-11",
+    "type": "Task",
+    "url": "",
+    "color": "#4c11ee",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Valentine's%20Day%20-%20Gift%20Cards&message=~%23%7CBRAND%7C%23~%3A%20Last-minute%20Valentine%3F%20We%E2%80%99ve%20got%20your%20back!%20Get%20an%20e-gift%20card%20delivered%20to%20their%20inbox%20in%20minutes.%20No%20shipping%20delays%2C%20just%20love!%20Shop%20now%3A%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2FoTweS5jnSGtS3TKbGGKue%2Ff99fdbe29d791604946fe09b286cb3d3%2FLAST-MINUTE_GIFTING.jpg&utm_medium=guide"
+  },
+  {
+    "id": "1737478134550",
+    "title": "Galentine's Day",
+    "description": "Leslie Knope said it best - Galentine's Day is for ladies celebrating ladies! \n",
+    "start": "2025-02-13",
+    "end": "2025-02-13",
+    "type": "SMS",
+    "url": "",
+    "color": "#4c11ee",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Galentine's%20Day&message=Happy%20Galentine%E2%80%99s%20Day%2C%20love!%20%F0%9F%8E%89%20Time%20to%20spoil%20your%20BFFs%20with%20a%20special%20gift%20from%20~%23%7CBRAND%7C%23~.%20Free%20shipping%20on%20orders%20over%20%24__!%20Shop%20now%3A%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F3uQYMfku2j3dqiIq8Kd4H1%2Fb12e64a65753dcaaa030a979834ee2e9%2FGIF_-10_Galentine-s_Day.gif&utm_medium=guide"
+  },
+  {
+    "id": "1737478358262",
+    "title": "Self-Love Day",
+    "description": "Turn self-care into celebration! Inspire customers to prioritize themselves with special offers that make pampering irresistible.\n",
+    "start": "2025-02-13",
+    "end": "2025-02-13",
+    "type": "SMS",
+    "url": "",
+    "color": "#4c11ee",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Self-Love%20Day&message=~%23%7CBRAND%7C%23~%3A%20Today's%20all%20about%20YOU!%20Celebrate%20Self-Love%20Day%20with%20~%23%7CDISCOUNT%7C%23~%20%25%20off%20everything%20that%20makes%20you%20feel%20amazing.%20Use%20code%20~%23%7CCODE%7C%23~%20to%20treat%20yourself%3A%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F2EEg811oyNlZMwwWdoiLpM%2Fb8b1d928a0f33960f940379c7daad89d%2FGIF_-3_Self-Love_Day.gif&utm_medium=guide"
+  },
+  {
+    "id": "1737478455910",
+    "title": "Valentine's Day",
+    "description": "Build customer loyalty with genuine appreciation messages that strengthen your brand relationship.\n",
+    "start": "2025-02-14",
+    "end": "2025-02-14",
+    "type": "SMS",
+    "url": "",
+    "color": "#4c11ee",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Valentine's%20Day&message=~%23%7CBRAND%7C%23~%3A%20Roses%20are%20red%2C%20violets%20are%20blue%2C%20our%20year%20is%20amazing%2C%20and%20it's%20all%20thanks%20to%20you!%20%F0%9F%92%9D%20Happy%20Valentine's%20Day%20from%20our%20family%20to%20yours!&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F3joddifO9XVVjpFrMtZAwt%2Ffc7e54119f206bc62c9f7646453966df%2FGIF_-4_Valentine_s_Day.gif&utm_medium=guide"
+  },
+  {
+    "id": "1737478564420",
+    "title": "Valentine's Day Sale",
+    "description": "Create excitement with irresistible offers that make gift-giving (and self-gifting) even sweeter.\n",
+    "start": "2025-02-14",
+    "end": "2025-02-14",
+    "type": "SMS",
+    "url": "",
+    "color": "#4c11ee",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Valentine's%20Day%20Sale&message=~%23%7CBRAND%7C%23~%3A%20Love%20is%20in%20the%20air...%20and%20so%20are%20savings!%20%F0%9F%92%98%20Get%20~%23%7CDISCOUNT%7C%23~%25%20off%20everything%20that%20makes%20your%20heart%20skip%20a%20beat.%20Fall%20in%20love%20with%20something%20new%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F6Jj9URaOMCYwk9mYBHHewh%2F9f0a7c0ee090df87be94face09a11190%2FGIF_-5_Valentine_s_Day_-_Sale.gif&utm_medium=guide"
+  },
+  {
+    "id": "1737478677038",
+    "title": "Singles Awareness Day",
+    "description": "Celebrate independence and self-appreciation! Turn Singles Day into a festival of self-investment and personal joy.",
+    "start": "2025-02-15",
+    "end": "2025-02-15",
+    "type": "SMS",
+    "url": "",
+    "color": "#4c11ee",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Singles%20Awareness%20Day&message=~%23%7CBRAND%7C%23~%3A%20Who%20needs%20a%20date%20when%20you've%20got%20great%20taste%3F%20%F0%9F%92%85%20Treat%20yourself%20to%20~%23%7CDISCOUNT%7C%23~%25%20off%20with%20code%20~%23%7CCODE%7C%23~.%20Because%20you're%20a%20whole%20vibe%20on%20your%20own%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F4ZWgOTmK4MhKy2n9gJXCzQ%2F79c8c16b5bafbf5e14f2ce3cdbd17473%2FGIF_-12_Singles_Awareness_Day.gif&utm_medium=guide"
+  },
+  {
+    "id": "1737478777601",
+    "title": "Random Acts of Kindness Day ",
+    "description": "Spread joy and inspire generosity with offers that encourage both self-care and sharing.\n",
+    "start": "2025-02-17",
+    "end": "2025-02-17",
+    "type": "SMS",
+    "url": "",
+    "color": "#4c11ee",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Random%20Acts%20of%20Kindness%20Day%20&message=~%23%7CBRAND%7C%23~%3A%20Here's%20your%20sign%20to%20spread%20some%20joy!%20~%23%7CDISCOUNT%7C%23~%25%20off%20everything%20-%20treat%20yourself%20or%20surprise%20someone%20special.%20Use%20code%20~%23%7CCODE%7C%23~%20to%20share%20the%20love%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F5fROPZtmnuBLiifUz3rQsi%2F8fb30c8e0cd199ffa2925ad38fc581e2%2FGIF_-13_National_Random_Acts_of_Kindness_Day.gif&utm_medium=guide"
+  },
+  {
+    "id": "1737478946225",
+    "title": "Love Your Pets Day",
+    "description": "Celebrate furry family members with playful messaging that resonates with pet parents.\n",
+    "start": "2025-02-20",
+    "end": "2025-02-20",
+    "type": "SMS",
+    "url": "",
+    "color": "#4c11ee",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Love%20Your%20Pets%20Day&message=~%23%7CBRAND%7C%23~%3A%20Your%20fur%20baby's%20favorite%20holiday%20is%20here!%20%F0%9F%90%BE%20Spoil%20them%20with%20~%23%7CDISCOUNT%7C%23~%25%20off%20their%20wish%20list%20using%20code%20~%23%7CCODE%7C%23~.%20Time%20to%20earn%20those%20tail%20wags%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F1HSHdeXlxb5wO9kH7I0mbX%2Fc4b8189b767618cd5c6abf9e861cf46b%2FGIF_-5_Valentine-s_Day_-_Pets.gif&utm_medium=guide"
+  },
+  {
+    "id": "1737482815434",
+    "title": "Lunar New year",
+    "description": "Lunar New Year",
+    "start": "2025-01-28",
+    "end": "2025-01-28",
+    "type": "SMS",
+    "url": "https://www.emotiveapp.co/broadcast?&title=Lunar%20New%20Year&message=~%23%7CBRAND%7C%23~%3A%20The%20Wood%20Snake%E2%80%99s%20new%20year%20gift%3F%20~%23%7CDISCOUNT%7C%23~%25%20OFF%20just%20for%20you!%20%F0%9F%90%8D%20%20Use%20~%23%7CCODE%7C%23~%20at%20checkout%20and%20treat%20yourself%20to%20something%20special.%20Shop%20the%20deals%20here%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F1N41PstoaFIeg3llyYLDku%2F600e0383c0e416094337f868c2ab0b7f%2FGIF_-16_Lunar_New_Year.gif&utm_medium=guide",
+    "color": "#4c11ee",
+    "broadcastUrl": ""
+  },
+  {
+    "id": "1737483043771",
+    "title": "Super Bowl Order Ahead",
+    "description": "Super Bowl Order Ahead",
+    "start": "2025-02-02",
+    "end": "2025-02-02",
+    "type": "SMS",
+    "url": "https://www.emotiveapp.co/broadcast?&title=Super%20Bowl%20Order%20Ahead&message=Hey!%20Ready%20for%20football%20season%3F%20%F0%9F%8F%88%20Grab%20~%23%7CDISCOUNT%7C%23~%25%20off%20~%23%7CPRODUCT%7C%23~%20and%20make%20your%20football%20Sundays%20even%20better.%20Just%20use%20~%23%7CCODE%7C%23~%20at%20checkout.%20Shop%20~%23%7CBRAND%7C%23~%3A%20~%23%7CLINK%7C%23~%0A&utm_medium=guide",
+    "color": "#4c11ee",
+    "broadcastUrl": ""
+  },
+  {
+    "id": "1737483136572",
+    "title": "Super Bowl Shipping Deadline",
+    "description": "Super Bowl Shipping Deadline",
+    "start": "2025-02-04",
+    "end": "2025-02-04",
+    "type": "SMS",
+    "url": "https://www.emotiveapp.co/broadcast?&title=Super%20Bowl%20Shipping%20Deadline&message=Get%20your%20game%20face%20on!%20Ensure%20your%20~%23%7CBRAND%7C%23~%20gear%20makes%20the%20lineup%20in%20time%20for%20Super%20Bowl.%20Order%20by%20~%23%7CDATE%7C%23~%20for%20a%20touchdown-worthy%20delivery.%20Go%20long%20and%20shop%20now%3A%20~%23%7CLINK%7C%23~%0A%0A&utm_medium=guide",
+    "color": "#4c11ee",
+    "broadcastUrl": ""
   }
 ]
