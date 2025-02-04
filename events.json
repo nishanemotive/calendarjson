@@ -826,14 +826,14 @@
   },
   {
     "id": "1737477127978",
-    "title": "Valentine's Day - Gift Guide",
-    "description": "Show off your Gift Guides to your subscribers who may be stumped on what to purchase for the big day.\n",
-    "start": "2025-01-27",
+    "title": "National Protein Day",
+    "description": "~#|BRAND|#~: Happy National Protein Day! We're celebrating with a flash sale on our best-selling powders: tap the link below to save ~#|DISCOUNT|#~% with ~#|CODE|#~ at checkout. ~#|LINK|#~",
+    "start": "2025-02-27",
     "end": "2025-01-27",
     "type": "SMS",
     "url": "",
     "color": "#4c11ee",
-    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Valentine's%20Day%20-%20Gift%20Guide&message=~%23%7CBRAND%7C%23~%3A%20Hey%20~%23%7CNAME%7C%23~%2C%20want%20to%20wow%20your%20partner%20this%20Valentine%E2%80%99s%20Day%3F%20%F0%9F%92%9D%20Check%20out%20our%20Gift%20Guides%20for%20some%20awesome%20ideas%3A%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2FoFnrCNl9lboaiAMNYoXFi%2Ff928b7b767382d311ab3e7b9fba881e4%2FGIF_-1_Valentine-s_Day_Gift_Guide.gif&utm_medium=guide"
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Protein%20Day&message=~%23%7CBRAND%7C%23~%3A%20Happy%20National%20Protein%20Day!%20We're%20celebrating%20with%20a%20flash%20sale%20on%20our%20best-selling%20powders%3A%20tap%20the%20link%20below%20to%20save%20~%23%7CDISCOUNT%7C%23~%25%20with%20~%23%7CCODE%7C%23~%20at%20checkout.%20~%23%7CLINK%7C%23~&utm_medium=guide"
   },
   {
     "id": "1737477271738",
@@ -974,9 +974,9 @@
     "start": "2025-01-28",
     "end": "2025-01-28",
     "type": "SMS",
-    "url": "https://www.emotiveapp.co/broadcast?&title=Lunar%20New%20Year&message=~%23%7CBRAND%7C%23~%3A%20The%20Wood%20Snake%E2%80%99s%20new%20year%20gift%3F%20~%23%7CDISCOUNT%7C%23~%25%20OFF%20just%20for%20you!%20%F0%9F%90%8D%20%20Use%20~%23%7CCODE%7C%23~%20at%20checkout%20and%20treat%20yourself%20to%20something%20special.%20Shop%20the%20deals%20here%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F1N41PstoaFIeg3llyYLDku%2F600e0383c0e416094337f868c2ab0b7f%2FGIF_-16_Lunar_New_Year.gif&utm_medium=guide",
+    "url": "",
     "color": "#4c11ee",
-    "broadcastUrl": ""
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Lunar%20New%20Year&message=~%23%7CBRAND%7C%23~%3A%20The%20Wood%20Snake%E2%80%99s%20new%20year%20gift%3F%20~%23%7CDISCOUNT%7C%23~%25%20OFF%20just%20for%20you!%20%F0%9F%90%8D%20%20Use%20~%23%7CCODE%7C%23~%20at%20checkout%20and%20treat%20yourself%20to%20something%20special.%20Shop%20the%20deals%20here%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F1N41PstoaFIeg3llyYLDku%2F600e0383c0e416094337f868c2ab0b7f%2FGIF_-16_Lunar_New_Year.gif&utm_medium=guide"
   },
   {
     "id": "1737483043771",
@@ -985,9 +985,9 @@
     "start": "2025-02-02",
     "end": "2025-02-02",
     "type": "SMS",
-    "url": "https://www.emotiveapp.co/broadcast?&title=Super%20Bowl%20Order%20Ahead&message=Hey!%20Ready%20for%20football%20season%3F%20%F0%9F%8F%88%20Grab%20~%23%7CDISCOUNT%7C%23~%25%20off%20~%23%7CPRODUCT%7C%23~%20and%20make%20your%20football%20Sundays%20even%20better.%20Just%20use%20~%23%7CCODE%7C%23~%20at%20checkout.%20Shop%20~%23%7CBRAND%7C%23~%3A%20~%23%7CLINK%7C%23~%0A&utm_medium=guide",
+    "url": "",
     "color": "#4c11ee",
-    "broadcastUrl": ""
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Super%20Bowl%20Order%20Ahead&message=Hey!%20Ready%20for%20football%20season%3F%20%F0%9F%8F%88%20Grab%20~%23%7CDISCOUNT%7C%23~%25%20off%20~%23%7CPRODUCT%7C%23~%20and%20make%20your%20football%20Sundays%20even%20better.%20Just%20use%20~%23%7CCODE%7C%23~%20at%20checkout.%20Shop%20~%23%7CBRAND%7C%23~%3A%20~%23%7CLINK%7C%23~%0A&utm_medium=guide"
   },
   {
     "id": "1737483136572",
@@ -996,8 +996,129 @@
     "start": "2025-02-04",
     "end": "2025-02-04",
     "type": "SMS",
-    "url": "https://www.emotiveapp.co/broadcast?&title=Super%20Bowl%20Shipping%20Deadline&message=Get%20your%20game%20face%20on!%20Ensure%20your%20~%23%7CBRAND%7C%23~%20gear%20makes%20the%20lineup%20in%20time%20for%20Super%20Bowl.%20Order%20by%20~%23%7CDATE%7C%23~%20for%20a%20touchdown-worthy%20delivery.%20Go%20long%20and%20shop%20now%3A%20~%23%7CLINK%7C%23~%0A%0A&utm_medium=guide",
+    "url": "",
     "color": "#4c11ee",
-    "broadcastUrl": ""
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Super%20Bowl%20Shipping%20Deadline&message=Get%20your%20game%20face%20on!%20Ensure%20your%20~%23%7CBRAND%7C%23~%20gear%20makes%20the%20lineup%20in%20time%20for%20Super%20Bowl.%20Order%20by%20~%23%7CDATE%7C%23~%20for%20a%20touchdown-worthy%20delivery.%20Go%20long%20and%20shop%20now%3A%20~%23%7CLINK%7C%23~%0A%0A&utm_medium=guide"
+  },
+{
+    "id": "1737655810676",
+    "title": "Groundhog Day",
+    "description": "Groundhog Day",
+    "start": "2025-02-02",
+    "end": "2025-02-02",
+    "type": "SMS",
+    "url": "",
+    "color": "#4c11ee",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Groundhog%20Day&message=Shadow%20or%20sunshine%2C%20Groundhog%20Day%20is%20here!%20Phil%E2%80%99s%20shadow%20drama%20isn%E2%80%99t%20the%20only%20excitement%20today%E2%80%94you%E2%80%99ve%20got%20~%23%7CDISCOUNT%7C%23~%25%20off%20waiting.%20Celebrate%20today%20by%20using%20~%23%7CCODE%7C%23~%20at%20checkout.%20But%20hurry%2C%20it%E2%80%99s%20only%20good%20for%2024%20hours.%20~%23%7CLINK%7C%23~%0A%0A&utm_medium=guide"
+  },
+  {
+    "id": "1737655925009",
+    "title": "National Pizza Day",
+    "description": "National Pizza Day",
+    "start": "2025-02-10",
+    "end": "2025-02-10",
+    "type": "SMS",
+    "url": "",
+    "color": "#4c11ee",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Pizza%20Day&message=~%23%7CBRAND%7C%23~%3A%20Who%20says%20Pizza%20Day%20isn%E2%80%99t%20every%20day%3F%20%F0%9F%8D%95%20Make%20it%20epic%20with%20our%20go-to%20homemade%20pizza%20recipe.%20It%E2%80%99s%20easy%2C%20delicious%2C%20and%20waiting%20for%20you%20right%20here%3A%20~%23%7CLINK%7C%23~%0A%0A&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F1FaimEB3ob3EMk1e1oZTk0%2F067ac3d8bd86df21a2962081d95363ef%2FGIF_-8_National_Pizza_Day.gif&utm_medium=guide"
+  },
+  {
+    "id": "1737656063258",
+    "title": "National Lash Day",
+    "description": "National Lash Day",
+    "start": "2025-02-19",
+    "end": "2025-02-19",
+    "type": "SMS",
+    "url": "",
+    "color": "#4c11ee",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Lash%20Day&message=~%23%7CBRAND%7C%23~%3A%20Happy%20National%20Lash%20Day%2C%20beauty!%20Celebrate%20with%20~%23%7CDISCOUNT%7C%23~%25%20off%20sitewide%20using%20CODE%20at%20checkout.%20Tap%20to%20shop%3A%20~%23%7CLINK%7C%23~&utm_medium=guide"
+  },
+  {
+    "id": "1737656146302",
+    "title": "National Margarita Day",
+    "description": "National Margarita Day",
+    "start": "2025-02-22",
+    "end": "2025-02-22",
+    "type": "Task",
+    "url": "",
+    "color": "#4c11ee",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Margarita%20Day&message=~%23%7CBRAND%7C%23~%3A%20Taco%20Tuesday%2C%20meet%20National%20Margarita%20Day.%20Tap%20to%20get%20our%20all-time%20favorite%20margarita%20recipe%20-%20you%20won't%20regret%20it!%20~%23%7CLINK%7C%23~&utm_medium=guide"
+  },
+  {
+    "id": "1737657451074",
+    "title": "Presidents' Day - VIP Early Access",
+    "description": "Presidents' Day - VIP Early Access\n",
+    "start": "2025-02-16",
+    "end": "2025-01-16",
+    "type": "SMS",
+    "url": "",
+    "color": "#4c11ee",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Presidents'%20Day%20-%20VIP%20Early%20Access&message=~%23%7CBRAND%7C%23~%3A%20Hey%20VIP!%20You're%20FIRST%20in%20line%20to%20shop%20our%20Presidents'%20Day%20Sale.%20Enjoy%20~%23%7CDISCOUNT%7C%23~%25%20sitewide%20with%20~%23%7CCODE%7C%23~%20at%20checkout!%20Shop%20now%3A%20~%23%7CLINK%7C%23~%0A&utm_medium=guide"
+  },
+  {
+    "id": "1737657522778",
+    "title": "Presidents' Day - Sale Announcement",
+    "description": "Presidents' Day - Sale Announcement\n",
+    "start": "2025-02-16",
+    "end": "2025-02-16",
+    "type": "Task",
+    "url": "",
+    "color": "#4c11ee",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Presidents'%20Day%20-%20Sale%20Announcement&message=~%23%7CBRAND%7C%23~%3A%20Our%20Presidents'%20Day%20sale%20starts%20now!%20Enjoy%20~%23%7CDISCOUNT%7C%23~%25%20off%20sitewide%20with%20~%23%7CCODE%7C%23~%20at%20checkout.%20Sale%20ends%202%2F20%2C%20so%20hurry!%20Tap%20to%20shop%3A%20~%23%7CLINK%7C%23~&utm_medium=guide"
+  },
+  {
+    "id": "1737657586712",
+    "title": "Presidents' Day Sale - Last Call",
+    "description": "Presidents' Day Sale - Last Call",
+    "start": "2025-02-18",
+    "end": "2025-02-18",
+    "type": "SMS",
+    "url": "",
+    "color": "#4c11ee",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Presidents'%20Day%20Sale%20-%20Last%20Call&message=LAST%20CHANCE%20%E2%9A%A1Our%20President's%20Day%20savings%20disappear%20at%20midnight%20tonight!%20Don't%20miss%20out%20-%20Shop%20now%3A%20~%23%7CLINK%7C%23~&utm_medium=guide"
+  },
+  {
+    "id": "1737657700565",
+    "title": "Presidents' Day Sale Extension",
+    "description": "Presidents' Day Sale Extension\n",
+    "start": "2025-02-19",
+    "end": "2025-02-19",
+    "type": "SMS",
+    "url": "",
+    "color": "#4c11ee",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Presidents'%20Day%20Sale%20Extension&message=SURPRISE!%20We've%20extended%20our%20Presidents'%20Day%20sale%20just%20for%20VIP%20text%20subscribers.%20Use%20~%23%7CCODE%7C%23~%20for%20~%23%7CDISCOUNT%7C%23~%25%20off%2C%20today%20only!%20~%23%7CLINK%7C%23~&utm_medium=guide"
+  },
+  {
+    "id": "1737657828248",
+    "title": "Super Bowl - Order Ahead",
+    "description": "Super Bowl - Order Ahead",
+    "start": "2025-01-27",
+    "end": "2025-01-27",
+    "type": "SMS",
+    "url": "",
+    "color": "#4c11ee",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Super%20Bowl%20-%20Order%20Ahead&message=Hey!%20Ready%20for%20football%20season%3F%20%F0%9F%8F%88%20Grab%20~%23%7CDISCOUNT%7C%23~%25%20off%20PRODUCT%20and%20make%20your%20football%20Sundays%20even%20better.%20Just%20use%20~%23%7CCODE%7C%23~%20at%20checkout.%20Shop%20~%23%7CBRAND%7C%23~%3A%20~%23%7CLINK%7C%23~&utm_medium=guide"
+  },
+  {
+    "id": "1737657881269",
+    "title": "Super Bowl - Shipping Deadline",
+    "description": "Super Bowl - Shipping Deadline\n",
+    "start": "2025-01-30",
+    "end": "2025-01-30",
+    "type": "SMS",
+    "url": "",
+    "color": "#4c11ee",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Super%20Bowl%20-%20Shipping%20Deadline&message=Get%20your%20game%20face%20on!%20Ensure%20your%20~%23%7CBRAND%7C%23~%20gear%20makes%20the%20lineup%20in%20time%20for%20Super%20Bowl.%20Order%20by%20~%23%7CDATE%7C%23~%20for%20a%20touchdown-worthy%20delivery.%20Go%20long%20and%20shop%20now%3A%20~%23%7CLINK%7C%23~%0A&utm_medium=guide"
+  },
+  {
+    "id": "1737657958121",
+    "title": "The Big Game",
+    "description": "The Big Game\n",
+    "start": "2025-02-09",
+    "end": "2025-02-09",
+    "type": "SMS",
+    "url": "",
+    "color": "#4c11ee",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=The%20Big%20Game&message=Game%20Day%20is%20here!%20%F0%9F%8F%88%20Got%20the%20snacks%3F%20%20Get%20~%23%7CDISCOUNT%7C%23~%25%20OFF%20sitewide%20at%20BRAND%20and%20make%20it%20even%20better!%20Use%20~%23%7CCODE%7C%23~%20at%20checkout%20before%20midnight%20~%23%7CDATE%7C%23~%20and%20score%20big.%20Shop%20here%3A%20~%23%7CLINK%7C%23~%0A&utm_medium=guide"
   }
 ]
