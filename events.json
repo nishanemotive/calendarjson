@@ -4222,5 +4222,71 @@
     "url": "",
     "color": "#e3e32b",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Giving%20Tuesday&message=~%23%7CBRAND%7C%23~%3A%20It%E2%80%99s%20Giving%20Tuesday!%20We%E2%80%99re%20donating%20~%23%7CDISCOUNT%7C%23~%25%20of%20this%20week%E2%80%99s%20proceeds%20to%20~%23%7CORGANIZATION%7C%23~.%20Your%20purchase%20gives%20back%E2%80%94shop%20now%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F6pL1EZRT2s9XwK5Sf3wBpG%2Ff1f611bbdadf3be28c3838730ebbbbb0%2FGIF_-6_Giving_Tuesday.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1759512321031",
+    "title": "Prime Big Deal Day Sale Teaser",
+    "description": "Prime Big Deal Day Sale Teaser",
+    "start": "2025-10-01",
+    "end": "2025-10-03",
+    "type": "SMS",
+    "url": "",
+    "color": "#e3e32b",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Prime%20Big%20Deal%20Day%20%20Sale%20Teaser&message=~%23%7CBRAND%7C%23~%3A%20Tomorrow%E2%80%99s%20the%20day%20%F0%9F%9A%A8%20Prime%20Big%20Deal%20Days%20drop%20at%20~%23%7CTIME%7C%23~.%20Set%20your%20alarms%20and%20get%20your%20cart%20ready%3A%20~%23%7CLINK%7C%23~%0A&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F40gUIJ0lbjPn25ihuchrab%2Fb7a6f2d44f9849f5c9f2a5aa2cb71fab%2FGIF_-4_Prime_Day_-_Sale_Teaser.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1759512418615",
+    "title": "Prime Big Deal Day Early Access",
+    "description": "Prime Big Deal Day\nEarly Access",
+    "start": "2025-10-03",
+    "end": "2025-10-06",
+    "type": "SMS",
+    "url": "",
+    "color": "#e3e32b",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Prime%20Big%20Deal%20Day%20Early%20Access&message=~%23%7CBRAND%7C%23~%3A%20Early%20birds%20get%20the%20deals%20%F0%9F%90%A6%20Prime%20Big%20Deal%20Days%20start%20NOW%E2%80%94VIPs%20save%20up%20to%20~%23%7CXX%25%7C%23~%20sitewide%20through%20~%23%7CDATE%7C%23~.%20Shop%20first%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F5fErtgOdMbyF95yfKb0n7E%2F5805d07d8126862ee31302d0c4a7eeb5%2FGIF_-1_Prime_Day_-_Early_Access_1_.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1759512482538",
+    "title": "Prime Big Deal Day Sale",
+    "description": "Prime Big Deal Day Sale",
+    "start": "2025-10-07",
+    "end": "2025-10-07",
+    "type": "SMS",
+    "url": "",
+    "color": "#e3e32b",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Prime%20Big%20Deal%20Day%20Sale&message=~%23%7CBRAND%7C%23~%3A%20It%E2%80%99s%20Prime%20Big%20Deal%20Days!%20%F0%9F%8E%89%20Save%20up%20to%20~%23%7CXX%25%7C%23~%20sitewide%20for%20the%20next%2048%20hours%20only.%20Don%E2%80%99t%20wait%E2%80%94shop%20now%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F4sxEEaqYaOmeQ5ykI8SmSH%2F1aed5fa0b633e2847273ab48ae492c78%2FGIF--11-Amazon-Prime-Day.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1759512549184",
+    "title": "Host Your Own \"Prime Big Deal Day\" Sale",
+    "description": "Host Your Own \"Prime Big Deal Day\" Sale\n",
+    "start": "2025-10-07",
+    "end": "2025-10-07",
+    "type": "SMS",
+    "url": "",
+    "color": "#e3e32b",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Host%20Your%20Own%20%22Prime%20Big%20Deal%20Day%22%20Sale&message=~%23%7CBRAND%7C%23~%3A%20We%E2%80%99re%20throwing%20our%20own%20Prime%20Big%20Deal%20Days%20Sale!%20%F0%9F%9B%8D%EF%B8%8F%20Take%20~%23%7CXX%7C%23~%25%20off%20sitewide%20%2B%20FREE%20shipping%20on%20orders%20over%20%24~%23%7CPRICE%7C%23~.%20Shop%20now%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F3bRVrST0yNVfakIJdbUE7x%2Ff8dd9911c6ecbd2be7458958f75dc1af%2FGIF_-3_Prime_Day_-_Prime_Alternative.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1759512605236",
+    "title": "Prime Big Deal Day Last Chance",
+    "description": "Prime Big Deal Day Last Chance",
+    "start": "2025-10-08",
+    "end": "2025-10-08",
+    "type": "SMS",
+    "url": "",
+    "color": "#e3e32b",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Host%20Your%20Own%20%22Prime%20Big%20Deal%20Day%22%20Sale%20(1)&message=Hey%20~%23%7CNAME%7C%23~!%20%E2%8F%B0%20Only%20~%23%7CX%7C%23~%20hours%20left%20to%20save%20up%20to%20~%23%7CXX%7C%23~%25%20sitewide%20at%20~%23%7CBRAND%7C%23~.%20Don%E2%80%99t%20miss%20out%E2%80%94shop%20now%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F6HtWqNn5ybgSbFPYGMycHf%2F69546e9452daaa1496c124bbcd0afc52%2FGIF--12-Amazon-Prime-Day---Reminder.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1759512670531",
+    "title": "Prime Big Deal Day Sale Extension",
+    "description": "Prime Big Deal Day Sale Extension",
+    "start": "2025-10-09",
+    "end": "2025-10-13",
+    "type": "SMS",
+    "url": "",
+    "color": "#e3e32b",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Prime%20Big%20Deal%20Day%20Sale%20Extension&message=~%23%7CBRAND%7C%23~%3A%20The%20Prime%20Big%20Deal%20fun%20isn%E2%80%99t%20over%20yet!%20%F0%9F%8E%89%20Snag%20~%23%7CPRODUCT%7C%23~%20deals%20%2B%20FREE%20shipping%20before%20it%20all%20ends.%20Shop%20now%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F12H0vasPBj3bQbhpgPKpqr%2F8756d2aa9c1a55b61952eaf44980295c%2FGIF_-2_Prime_Day_-_Sale_Extension.gif&utm_medium=broadcast"
   }
 ]
