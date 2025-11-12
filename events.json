@@ -3909,7 +3909,7 @@
     "title": "National Gratitude Month",
     "description": "Thank loyal SMS subscribers with month-long perks. Offer free shipping, early access, or a sitewide discount as a thank-you. It’s the perfect warm-up for your Thanksgiving and BFCM traffic—while showing appreciation in a low-pressure way.",
     "start": "2025-11-01",
-    "end": "2025-11-30",
+    "end": "2025-11-01",
     "type": "SMS",
     "url": "",
     "color": "#244e5a",
@@ -3919,8 +3919,8 @@
     "id": "1758215538655",
     "title": "Movember",
     "description": "If your brand speaks to men—or supports men’s health—Movember is a smart campaign to rally behind. Whether you’re raising awareness or donating proceeds, a clear message can inspire action. Add impact by naming the organization or cause you’re backing.",
-    "start": "2025-11-01",
-    "end": "2025-11-30",
+    "start": "2025-11-02",
+    "end": "2025-11-02",
     "type": "SMS",
     "url": "",
     "color": "#244e5a",
@@ -3931,10 +3931,10 @@
     "title": "Last year’s BFCM customers",
     "description": "Reconnect with shoppers who bought during last year’s BFCM. These warm leads already know your brand—and they’re likely to come back with the right nudge. Use their past purchase behavior to craft timely, exclusive offers.",
     "start": "2025-11-03",
-    "end": "2025-11-30",
+    "end": "2025-11-03",
     "type": "SMS",
     "url": "",
-    "color": "#244e5a",
+    "color": "#05232b",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Last%20year%E2%80%99s%20BFCM%20customers&message=~%23%7CBRAND%7C%23~%3A%20Last%20year%E2%80%99s%20MVPs%20get%20first%20dibs%20%F0%9F%8E%81%20Your%20exclusive%20BFCM%20offer%20is%20unlocked.%20Go%20get%20it%3A%20~%23%7CLINK%7C%23~&utm_medium=broadcast"
   },
   {
@@ -3945,7 +3945,7 @@
     "end": "2025-11-14",
     "type": "SMS",
     "url": "",
-    "color": "#244e5a",
+    "color": "#05232b",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Last%20Day%20of%20Thanksgiving%20Shipping&message=~%23%7CBRAND%7C%23~%3A%20Hey%20~%23%7CNAME%7C%23~!%20It%E2%80%99s%20National%20Gratitude%20Month%2C%20and%20we%E2%80%99re%20feelin%E2%80%99%20thankful.%20Enjoy%20FREE%20shipping%20all%20month%20long%E2%80%94no%20code%20needed.%20%F0%9F%92%8C%20~%23%7CLINK%7C%23~&utm_medium=broadcast"
   },
   {
@@ -3956,7 +3956,7 @@
     "end": "2025-11-27",
     "type": "SMS",
     "url": "",
-    "color": "#244e5a",
+    "color": "#05232b",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Thanksgiving&message=~%23%7CBRAND%7C%23~%3A%20Happy%20Thanksgiving%2C%20~%23%7CNAME%7C%23~!%20%F0%9F%8D%81%20We%E2%80%99re%20so%20grateful%20for%20you.%20Wishing%20you%20a%20day%20full%20of%20love%2C%20rest%2C%20and%20your%20favorite%20food.&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F1CoE6XwOTZTSzxaNLdj7lN%2F66f58ae4b0c8d0113874c7fd77b7ba3d%2FIMAGE_-8_Thanksgiving_.png&utm_medium=broadcast"
   },
   {
@@ -3967,62 +3967,62 @@
     "end": "2025-11-20",
     "type": "SMS",
     "url": "",
-    "color": "#244e5a",
+    "color": "#05232b",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Black%20Friday%20Sale%20Teaser&message=~%23%7CBRAND%7C%23~%3A%20Something%20BIG%20drops%20tomorrow.%20Our%20Black%20Friday%20Sale%20goes%20live%20at%20~%23%7CTIME%7C%23~%E2%80%94don%E2%80%99t%20be%20late%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2FIzBgiGJKxUpG7yDH5z6im%2Fb5dd2c2f6b09828548e47c5e72ea260e%2Fgif--9-black-friday---sale-teaser-.gif&utm_medium=broadcast"
   },
   {
     "id": "1758216830954",
     "title": "Black Friday VIP Early Access",
     "description": "Reward your SMS list with early access to Black Friday deals. This gives subscribers a head start and makes your texts feel exclusive.",
-    "start": "2025-11-21",
+    "start": "2025-11-26",
     "end": "2025-11-21",
     "type": "Task",
     "url": "",
-    "color": "#244e5a",
+    "color": "#05232b",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Black%20Friday%20VIP%20Early%20Access&message=~%23%7CBRAND%7C%23~%3A%20VIPs%20first!%20Tap%20below%20to%20shop%20our%20Black%20Friday%20Sale%20early%20%2B%20enjoy%20~%23%7CDISCOUNT%7C%23~%25%20off%20sitewide%20before%20anyone%20else.%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F7ISzbknbVsXzB1roNoNYmZ%2Fabcbbe30a617a2cbc98a1a4dadf7e8f2%2FGIF_-2_Black_Friday.gif&utm_medium=broadcast"
   },
   {
     "id": "1758216906885",
     "title": "Black Friday Sale Announcement",
     "description": "It’s time! Announce your Black Friday deals loud and proud. Share the % off, how long it lasts, and how to redeem.\n",
-    "start": "2025-11-23",
-    "end": "2025-11-23",
+    "start": "2025-11-28",
+    "end": "2025-11-26",
     "type": "SMS",
     "url": "",
-    "color": "#244e5a",
+    "color": "#05232b",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Black%20Friday%20Sale%20Announcement&message=~%23%7CBRAND%7C%23~%3A%20BLACK%20FRIDAY%20SALE%20%F0%9F%94%A5%20~%23%7CDISCOUNT%7C%23~%25%20off%20sitewide%20now%20through%20~%23%7CDATE%7C%23~.%20No%20code%20needed.%20Go%20wild%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F7ISzbknbVsXzB1roNoNYmZ%2Fabcbbe30a617a2cbc98a1a4dadf7e8f2%2FGIF_-2_Black_Friday.gif&utm_medium=broadcast"
   },
   {
     "id": "1758216986150",
     "title": "Black Friday Sale Reminder",
     "description": "Keep the momentum going! Black Friday weekend is still in full swing—send a timely reminder so your subscribers don’t forget to take advantage of your biggest sale of the year.",
-    "start": "2025-11-25",
+    "start": "2025-11-28",
     "end": "2025-11-25",
     "type": "SMS",
     "url": "",
-    "color": "#244e5a",
+    "color": "#05232b",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Black%20Friday%20Sale%20Reminder&message=~%23%7CBRAND%7C%23~%3A%20Don%E2%80%99t%20miss%20our%20biggest%20sale%20of%20the%20year%2C%20~%23%7CNAME%7C%23~!%20Our%20Black%20Friday%20event%20ends%20soon%E2%80%94save%20up%20to%20~%23%7CXX%7C%23~%25%20off%20sitewide!%20Shop%20now%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F55ufThag7QSprGXWxFohC%2F1e8810b0e9aeeefa985761e5b7898bcf%2FGIF_-10_Black_Friday_-_Sale_Reminder_.gif&utm_medium=broadcast"
   },
   {
     "id": "1758217059597",
     "title": "Black Friday Last Chance",
     "description": "Time to close it out strong. Let subscribers know this is the final call for Black Friday savings—create urgency and encourage one last push before the clock runs out.\n",
-    "start": "2025-11-28",
-    "end": "2025-11-28",
+    "start": "2025-11-30",
+    "end": "2025-11-30",
     "type": "SMS",
     "url": "",
-    "color": "#244e5a",
+    "color": "#05232b",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Black%20Friday%20Last%20Chance&message=~%23%7CBRAND%7C%23~%3A%20LAST%20CHANCE%3A%20Black%20Friday%20deals%20end%20at%20midnight!%20Shop%20~%23%7CBRAND%7C%23~%20now%20and%20save%20before%20it%E2%80%99s%20gone%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F55ufThag7QSprGXWxFohC%2F1e8810b0e9aeeefa985761e5b7898bcf%2FGIF_-10_Black_Friday_-_Sale_Reminder_.gif&utm_medium=broadcast"
   },
   {
     "id": "1758217627705",
     "title": "Black Friday Sale Extension",
     "description": "Surprise! You’re giving subscribers one more chance to score deals. Let them know your Black Friday Sale has been extended—but not for long.",
-    "start": "2025-11-30",
-    "end": "2025-11-30",
+    "start": "2025-11-29",
+    "end": "2025-11-29",
     "type": "SMS",
     "url": "",
-    "color": "#244e5a",
+    "color": "#05232b",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Black%20Friday%20Sale%20Extension&message=~%23%7CBRAND%7C%23~%3A%20Surprise!%20We%E2%80%99ve%20extended%20our%20Black%20Friday%20Sale%20%F0%9F%8E%89%20But%20hurry%E2%80%94it%20all%20ends%20tonight.%20Shop%20~%23%7CBRAND%7C%23~%20before%20it%E2%80%99s%20gone%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F7ISzbknbVsXzB1roNoNYmZ%2Fabcbbe30a617a2cbc98a1a4dadf7e8f2%2FGIF_-2_Black_Friday.gif&utm_medium=broadcast"
   },
   {
@@ -4033,7 +4033,7 @@
     "end": "2025-11-29",
     "type": "SMS",
     "url": "",
-    "color": "#244e5a",
+    "color": "#05232b",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Small%20Business%20Saturday&message=~%23%7CBRAND%7C%23~%3A%20Happy%20Small%20Business%20Saturday%20%F0%9F%92%99%20As%20a%20thank-you%20for%20your%20support%2C%20enjoy%20~%7CXX%7C~%25%20off%20sitewide%20with%20~%7CCODE%7C~.%20Shop%20now%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F3t011j4hFHDjsQ4Kr1gxhk%2F7cf67d9c670ebf3bf7ed5de79db4813d%2FGIF_-5_Small_Business_Saturday.gif&utm_medium=broadcast"
   },
   {
@@ -4044,7 +4044,7 @@
     "end": "2025-12-01",
     "type": "SMS",
     "url": "",
-    "color": "#e3e32b",
+    "color": "#05232b",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Cyber%20Monday&message=~%23%7CBRAND%7C%23~%3A%20Cyber%20Monday%20is%20HERE%20%E2%9A%A1%20Save%20up%20to%20~%23%7CXX%7C%23~%25%20on%20~%23%7CPRODUCT%7C%23~%20and%20more%E2%80%94only%20while%20supplies%20last!%20Shop%20now%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F3jx0Rfs6HU5S2E3g47muzc%2F1e046ea5a6446935d667b3b8a8f418df%2FGIF_-3_Cyber_Monday.gif&utm_medium=broadcast"
   },
   {
@@ -4055,7 +4055,7 @@
     "end": "2025-11-01",
     "type": "SMS",
     "url": "",
-    "color": "#052b37",
+    "color": "#244e5a",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=World%20Vegan%20Day&message=~%23%7CBRAND%7C%23~%3A%20Plant%20power%20%F0%9F%8C%BF%20Celebrate%20World%20Vegan%20Day%20with%20our%20vegan-friendly%20faves%E2%80%94good%20for%20you%2C%20good%20for%20the%20planet%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F3wOH12rsFVNMuzOvZU5ZMi%2F1f3188ed589760d2c9d6474c72c84959%2FGIF_-3_World_Vegan_Day.gif&utm_medium=broadcast"
   },
   {
@@ -4066,7 +4066,7 @@
     "end": "2025-11-05",
     "type": "SMS",
     "url": "",
-    "color": "#052b37",
+    "color": "#244e5a",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Stress%20Awareness%20Day&message=~%23%7CBRAND%7C%23~%3A%20Take%20a%20moment%20for%20yourself%20today.%20Get%20~%23%7CPRODUCT%7C%23~%20free%20with%20any%20purchase%20of%20%24~%23%7CXX%7C%23~%20or%20more.%20Breathe%20in%2C%20checkout%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F3VWWmtZvhwvwZ7ALXrCkPu%2Fb9a8b0601afafa5775b9abe79f35214d%2FGIF_-6_Stress_Awareness_Day.gif&utm_medium=broadcast"
   },
   {
@@ -4074,10 +4074,10 @@
     "title": "Día de los Muertos",
     "description": "Honor a meaningful day of remembrance and culture. Whether you're sending a heartfelt note or a respectful promo, make sure your message is thoughtful and inclusive.",
     "start": "2025-11-01",
-    "end": "2025-11-02",
+    "end": "2025-11-01",
     "type": "SMS",
     "url": "",
-    "color": "#052b37",
+    "color": "#05232b",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=D%C3%ADa%20de%20los%20Muertos&message=~%23%7CBRAND%7C%23~%3A%20Feliz%20D%C3%ADa%20de%20Muertos%20%F0%9F%8C%BA%20Celebrate%20life%20and%20remembrance%20with%20~%7CXX%7C~%25%20off%20sitewide%E2%80%94today%20only%20at%20~%23%7CBRAND%7C%23~%3A%20~%23%7CLINK%7C%23~&utm_medium=broadcast"
   },
   {
@@ -4088,7 +4088,7 @@
     "end": "2025-11-03",
     "type": "SMS",
     "url": "",
-    "color": "#052b37",
+    "color": "#244e5a",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Accessory%20Day&message=~%23%7CBRAND%7C%23~%3A%20Every%20outfit%20needs%20that%20final%20touch%20%E2%9C%A8%20Take%20~%7CXX%7C~%25%20off%20accessories%20with%20code%20~%7CCODE%7C~.%20Shop%20now%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2FavnJOri1XLZanDwFMBgTr%2Fa86e1b2a66db08ba7363984158cfc33b%2FIMAGE_-1_National_Accessory_Day.png&utm_medium=broadcast"
   },
   {
@@ -4099,7 +4099,7 @@
     "end": "2025-11-04",
     "type": "SMS",
     "url": "",
-    "color": "#052b37",
+    "color": "#244e5a",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Candy%20Day&message=~%23%7CBRAND%7C%23~%3A%20Treating%20you%20extra%20sweet%20today%20%F0%9F%92%96%20Free%20shipping%20on%20orders%20over%20~%7CXX%7C~.%20No%20code%20needed%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F5diSRP4tCrRYKin8KM1WrQ%2F17ca5b4156a81eadcf463c495fcbaf12%2FGIF_-5_National_Candy_Day.gif&utm_medium=broadcast"
   },
   {
@@ -4110,7 +4110,7 @@
     "end": "2025-11-05",
     "type": "SMS",
     "url": "",
-    "color": "#052b37",
+    "color": "#244e5a",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Donut%20Day&message=~%23%7CBRAND%7C%23~%3A%20Donut%20miss%20this%20deal!%20%F0%9F%8D%A9%20Take%20~%7CXX%7C~%25%20off%20with%20code%20~%7CCODE%7C~.%20Today%20only%E2%80%94shop%20now%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F2YpqdMBXh8zkPyV3cxbJHI%2F8742bac28e389c07161ecfaaf53d0629%2FNational_Donut_Day.gif&utm_medium=broadcast"
   },
   {
@@ -4121,7 +4121,7 @@
     "end": "2025-11-02",
     "type": "SMS",
     "url": "",
-    "color": "#052b37",
+    "color": "#05232b",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Daylight%20Saving&message=~%23%7CBRAND%7C%23~%3A%20Fall%20back%20into%20savings%20%F0%9F%8D%82%20Take%20~%7CXX%7C~%25%20off%20orders%20over%20%24~%7CXX%7C~%20with%20code%20~%7CCODE%7C~.%20Get%20cozy%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F4agkSqewxpVbmswlajslgn%2F86bbefec4cc84aaffc131b3555b26841%2FGIF_-8_Daylight_Savings.gif&utm_medium=broadcast"
   },
   {
@@ -4132,7 +4132,7 @@
     "end": "2025-11-11",
     "type": "Task",
     "url": "",
-    "color": "#244e5a",
+    "color": "#05232b",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Veterans%20Day&message=~%23%7CBRAND%7C%23~%3A%20Today%2C%20we%20honor%20all%20who%20served.%20Thank%20you%20for%20your%20courage%20and%20sacrifice.%20We%E2%80%99re%20grateful%20for%20you.&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F7IWQqW7wdcxL8IoctW6LgV%2F68da496235b64b2958245e973eb89d8f%2FGIF_-9_Veterans_Day.gif&utm_medium=broadcast"
   },
   {
@@ -4143,7 +4143,7 @@
     "end": "2025-11-11",
     "type": "Task",
     "url": "",
-    "color": "#052b37",
+    "color": "#244e5a",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Singles%20Day&message=~%23%7CBRAND%7C%23~%3A%20Treat%20yourself%20this%20Singles%20Day%20%F0%9F%92%85%20Take%20~%7CXX%7C~%25%20off%20with%20code%20~%7CCODE%7C~.%20You%20deserve%20this%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F68VpjrvtGu7XRxXcAIGFGJ%2F62472920434cf36e7d9035fd884b4fe3%2FGIF_-10_Singles-_Day.gif&utm_medium=broadcast"
   },
   {
@@ -4154,7 +4154,7 @@
     "end": "2025-11-12",
     "type": "SMS",
     "url": "",
-    "color": "#052b37",
+    "color": "#244e5a",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Happy%20Hour%20Day&message=~%23%7CBRAND%7C%23~%3A%20It%E2%80%99s%20Happy%20Hour%E2%80%94all%20day%20long%20%F0%9F%8D%B8%20Take%20~%7CXX%7C~%25%20off%20~%7CPRODUCT%7C~%20until%20midnight.%20No%20code%20needed%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2Fz7bmsomWN2TX3d3wQYTEl%2Fb190daf77856bd6fb8f166ad83706cb1%2FGIF_-11_National_Happy_Hour_Day.gif&utm_medium=broadcast"
   },
   {
@@ -4165,7 +4165,7 @@
     "end": "2025-11-13",
     "type": "SMS",
     "url": "",
-    "color": "#052b37",
+    "color": "#244e5a",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=World%20Kindness%20Day&message=~%23%7CBRAND%7C%23~%3A%20We%E2%80%99re%20sending%20kindness%20your%20way.%20Enjoy%20~%7CXX%7C~%25%20off%20just%20because.%20Use%20code%20~%7CCODE%7C~%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F5RjvEPE6ahycFsLPj71HGB%2F8957bdcecc9eb12a3d5cbe0afa87a50c%2FIMAGE_-3_World_Kindness_Day.png&utm_medium=broadcast"
   },
   {
@@ -4176,7 +4176,7 @@
     "end": "2025-11-15",
     "type": "SMS",
     "url": "",
-    "color": "#052b37",
+    "color": "#244e5a",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Philanthropy%20Day&message=~%23%7CBRAND%7C%23~%3A%20Shop%20for%20a%20cause%20%F0%9F%92%AB%20~%7CXX%7C~%25%20of%20today%E2%80%99s%20proceeds%20support%20~%7CORGANIZATION%7C~.%20Learn%20more%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F4Bh9758m8atVJI5UJ6EXpP%2Fc91ca5c323168532a3742e8035615b19%2FIMAGE_-4_National_Philanthropy_Day.png&utm_medium=broadcast"
   },
   {
@@ -4187,7 +4187,7 @@
     "end": "2025-11-15",
     "type": "SMS",
     "url": "",
-    "color": "#052b37",
+    "color": "#244e5a",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Recycling%20Day&message=~%23%7CBRAND%7C%23~%3A%20Let%E2%80%99s%20do%20better%20for%20the%20planet%20%F0%9F%8C%B1%20~%7CXX%7C~%25%20of%20today%E2%80%99s%20sales%20support%20green%20initiatives.%20Details%20here%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F78hpaWl3zfbEHbbw2yDsZt%2F98589f6dffe63dbc6e119bfa18a8426b%2FIMAGE_-5_National_Recycling_Day.png&utm_medium=broadcast"
   },
   {
@@ -4198,7 +4198,7 @@
     "end": "",
     "type": "SMS",
     "url": "",
-    "color": "#052b37",
+    "color": "#244e5a",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Hiking%20Day&message=~%23%7CBRAND%7C%23~%3A%20Gear%20up%20and%20go%20%F0%9F%8C%84%20Take%20~%7CXX%7C~%25%20off%20~%7CPRODUCT%7C~%20for%20National%20Hiking%20Day%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F7w5Fr5KOxt9AlbzlqPnzPZ%2F286020e33e15a271728778e9c9910592%2FIMAGE_-6_National_Hiking_Day.png&utm_medium=broadcast"
   },
   {
@@ -4209,7 +4209,7 @@
     "end": "",
     "type": "SMS",
     "url": "",
-    "color": "#052b37",
+    "color": "#244e5a",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Espresso%20Day&message=~%23%7CBRAND%7C%23~%3A%20Espresso%20yourself!%20Wake%20up%20to%20~%23%7CXX%7C%23~%25%20off%20your%20order%20with%20code%20~%23%7CCODE%7C%23~.%20Offer%20ends%20tonight%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F1RilgvrTOP6kGvix9nms1o%2F0246705bf277aa297e76ec069f3ab993%2FIMAGE_-7_National_Espresso_Day.png&utm_medium=broadcast"
   },
   {
@@ -4220,8 +4220,338 @@
     "end": "2025-12-02",
     "type": "SMS",
     "url": "",
-    "color": "#e3e32b",
+    "color": "#05232b",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Giving%20Tuesday&message=~%23%7CBRAND%7C%23~%3A%20It%E2%80%99s%20Giving%20Tuesday!%20We%E2%80%99re%20donating%20~%23%7CDISCOUNT%7C%23~%25%20of%20this%20week%E2%80%99s%20proceeds%20to%20~%23%7CORGANIZATION%7C%23~.%20Your%20purchase%20gives%20back%E2%80%94shop%20now%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F6pL1EZRT2s9XwK5Sf3wBpG%2Ff1f611bbdadf3be28c3838730ebbbbb0%2FGIF_-6_Giving_Tuesday.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1762548680872",
+    "title": "National Mutt Day",
+    "description": "Pet brands: run a promo in honor of National Mutt Day. No sale to share? Opt for a broadcast spotlighting a customer story on your blog or social media!",
+    "start": "2025-12-03",
+    "end": "",
+    "type": "Task",
+    "url": "",
+    "color": "#244e5a",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Mutt%20Day&message=~%7CBRAND%7C%23~%3A%20Today%E2%80%99s%20for%20the%20mutts%2C%20the%20mixes%20%26%20the%20marvelous%20pups%20who%20steal%20our%20hearts!%20%F0%9F%90%BE%20Fetch%20~%23%7CDISCOUNT%7C%23~%25%20off%20~%23%7CPRODUCT%7C%23~%20with%20CODE%20to%20make%20tails%20wag%20even%20more.%20Shop%20now%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2Fo4fV3wpPCbyY4JJ6vYE0M%2F9616657f93e31fd09be0a430528f67c7%2FGIF_-5_National_Mutt_Day.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1762549155501",
+    "title": "National Cookie Day",
+    "description": "Whether you're a food brand or not, National Cookie Day is a great opportunity to share a delicious promo with your subscribers!",
+    "start": "2025-12-04",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#244e5a",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Cookie%20Day&message=~%23%7CBRAND%7C%23~%3A%20Today%E2%80%99s%20all%20about%20cookies!%20%F0%9F%8D%AA%20Treat%20yourself%20to%20sweet%20savings%20and%20get%20~%23%7CDISCOUNT%7C%23~%25%20off%20~%23%7CPRODUCT%7C%23~.%20Don%E2%80%99t%20let%20this%20deal%20crumble%E2%80%94use%20~%23%7CCODE%7C%23~%20at%20checkout%3A%20~%23%7CLINK%7C%23~"
+  },
+  {
+    "id": "1762549532091",
+    "title": "Holiday Gift Guides",
+    "description": "Help your subscribers spread joy with curated gift ideas that make holiday shopping a breeze - because finding the perfect present should feel magical, not stressful!",
+    "start": "2025-12-07",
+    "end": "2025-12-13",
+    "type": "SMS",
+    "url": "",
+    "color": "#244e5a",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Holiday%20Gift%20Guides&message=~%23%7CBRAND%7C%23~%3A%20Make%20their%20season%20merry%20and%20bright!%20Our%20curated%20holiday%20collection%20%2B%20FREE%20shipping%20on%20orders%20%24~%23%7CAMOUNT%7C%23~%2B%20ensures%20perfect%20gifting.%20Shop%20by%20~%23%7CDATE%7C%23~%20for%20guaranteed%20delivery%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F5Q0b8gQewmkS0BbhWVjBxq%2F5ed85a5590a4447c99b527c8901b4381%2FGIF_-1_Holiday_Gifting.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1762549698361",
+    "title": "National App Day",
+    "description": "National App Day is the perfect opportunity to remind your subscribers to shop via your app! Include a promo for purchases made on the app or simply remind your subscribers that it's a convenient way to shop.",
+    "start": "2025-12-11",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#244e5a",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20App%20Day&message=~%23%7CBRAND%7C%23~%3A%20Celebrate%20National%20App%20Day%20with%20~%23%7CDISCOUNT%7C%23~%25%20off%2C%20just%20for%20app%20shoppers!%20Deals%20this%20good%20don%E2%80%99t%20last%E2%80%94tap%20to%20grab%20yours%20now%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F542mA4zUIWy97UJsehnlN5%2Fe2661c76834226b0f1d2a6a7d7a5e867%2FGIF_-2_National_App_DayNATIONAL_APP_DAY.png&utm_medium=broadcast"
+  },
+  {
+    "id": "1762552029391",
+    "title": "12 Days of Christmas Countdown Begins",
+    "description": "Launch your own countdown or send a reminder to your customers to start ordering their holiday picks.",
+    "start": "2025-12-13",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#05232b",
+    "broadcastUrl": ""
+  },
+  {
+    "id": "1762552199818",
+    "title": "National Free Shipping Day",
+    "description": "Who doesn't love a free shipping offer? Make sure you extend the invite to your subscribers so they're encouraged to finalize their holiday shopping with your brand!",
+    "start": "2025-12-14",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#05232b",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Free%20Shipping%20Day&message=~%23%7CBRAND%7C%23~%3A%20Love%20free%20stuff%3F%20Us%20too!%20Skip%20the%20fees%20and%20get%20FREE%20shipping%20on%20your%20order.%20Use%20~%23%7CCODE%7C%23~%20before%20midnight%20to%20grab%20the%20deal%3A%20%F0%9F%93%A6%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F1ZiSgrshDAPs11JW2ppZaw%2F078bba47b5ec1c3061a53533a8405182%2FGIF_-15_National_Free_Shipping_Day.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1762552637444",
+    "title": "National Letter Writing Day",
+    "description": "Perfect holiday for to celebrate writing materials, stationary brands, notebook binding craftsmen, etc!",
+    "start": "2025-12-07",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#244e5a",
+    "broadcastUrl": ""
+  },
+  {
+    "id": "1762552708341",
+    "title": "Green Monday",
+    "description": "Big box stores love this day. If you need a quick flash sale event, this is exactly what you need.",
+    "start": "2025-12-08",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#05232b",
+    "broadcastUrl": ""
+  },
+  {
+    "id": "1762552768647",
+    "title": "National Cupcake Day",
+    "description": "It's a day for everything in cupcake form! ",
+    "start": "2025-12-15",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#244e5a",
+    "broadcastUrl": ""
+  },
+  {
+    "id": "1762552833496",
+    "title": "National Ugly Sweater Day",
+    "description": "Yes, this is the season and this is THE day for a very specific sub-genre of this wardrobe piece.",
+    "start": "2025-12-16",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#244e5a",
+    "broadcastUrl": ""
+  },
+  {
+    "id": "1762553211712",
+    "title": "Last Day of Standard Shipping",
+    "description": "If you're offering free shipping or a special rate for more than one day, make sure you send a reminder to your subscribers who may have clicked on the first link announcement, but haven't made a purchase yet.",
+    "start": "2025-12-17",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#05232b",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Holiday%20Shipping%20First%20Reminder&message=~%23%7CBRAND%7C%23~%3A%20Holiday%20magic%20starts%20here.%20Order%20by%20~%23%7CDATE%7C%23~%20for%20gifting-ready%20delivery%3A%20~%23%7CLINK%7C%23~%0A%0A&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F2iHSDuVjEAGluk4vNDNq7m%2Fc2f8f034e8883fd7f9dcbcedc5aca183%2FShipping-Deadline-Reminder.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1762553714110",
+    "title": "Super Saturday",
+    "description": "We're just ONE week away from the holiday weekend. Offer a flash sale to entice your customers to get those last minute purchases made in time for the big day.",
+    "start": "2025-12-20",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#05232b",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Super%20Saturday&message=~%23%7CBRAND%7C%23~%3A%20%F0%9F%8E%89%20Super%20Saturday%20Alert!%20%F0%9F%8E%89%20Get%20your%20last-minute%20gifts%20with%20fantastic%20deals%20only%20available%20today!%20Hurry%2C%20shop%20now%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F5Ds5WIQBqUH4lACdK5ZQvR%2F51945ff84b967f1cf45c57779135535e%2FGIF_-17_Super_Saturday.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1762553878105",
+    "title": "Winter Solstice",
+    "description": "Winter is here! Share a spotlight on your cold-weather best-sellers or offer a sitewide sale for the big day.",
+    "start": "2025-12-21",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#05232b",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Winter%20Solstice&message=~%23%7CBRAND%7C%23~%3A%20The%20shortest%20day%2C%20the%20sweetest%20deal!%20Celebrate%20the%20season%20with%20~%23%7CDISCOUNT%7C%23~%25%20off%20~%23%7CPRODUCT%7C%23~.%20Our%20Winter%20Solstice%20Sale%20ends%20~%23%7CDATE%7C%23~%2C%20so%20hurry%E2%80%94shop%20now%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F3w1rDAtLvcJkUobSdLKzEw%2Fb1b323f33e32b21d06368c2c1b746f96%2FGIF_-18_First_Day_of_Winter.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1762554064773",
+    "title": "Last Day of Shipping - UPS",
+    "description": "Time is running out! Make sure your subscribers take advantage of your shipping offers before it's too late.",
+    "start": "2025-12-22",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#05232b",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Shipping%20Reminder%20%232%202bg%20&message=~%23%7CBRAND%7C%23~%3A%20Secure%20all%20your%20goodies%20by%20~%23%7CDATE%7C%23~%2C%20%3Cname%3E!%20Ensure%20they%20arrive%20in%20time%20for%20the%20holiday%20cheer.%20Our%20sleigh's%20filling%20up%20fast%20-%20don't%20delay!%20%20~%23%7CLINK%7C%23~%0A&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F1egy37YBwlusiHZXPrA7mO%2F33e65ed52b28cc11d066f8e64a445ea9%2FShipping_Deadline_Reminder.gif&utm_medium=guide"
+  },
+  {
+    "id": "1762554182838",
+    "title": "Christmas Eve",
+    "description": "Got a deal to share with the subscribers who waited to shop until the very last minute? Share it on Christmas Eve!",
+    "start": "2025-12-24",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#05232b",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Christmas%20Eve&message=~%23%7CBRAND%7C%23~%3A%20As%20the%20stars%20twinkle%20on%20this%20silent%20night%2C%20we%20send%20you%20warm%20wishes%20for%20a%20joyful%20Christmas%20Eve.%20%F0%9F%8C%99%E2%9C%A8%20May%20peace%20and%20happiness%20find%20you.%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F5JFDuB4Y8MYe7SXARXqtgG%2F211f29ecaf875e80c46a190889489ac8%2FGIF_-9_Christmas_Eve.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1762554259340",
+    "title": "Christmas Day",
+    "description": "Wish your subscribers a wonderful Christmas Day filled with friends and family by sending out a heartfelt message: no promo necessary. ",
+    "start": "2025-12-25",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#05232b",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Christmas%20Day&message=~%23%7CBRAND%7C%23~%3A%20May%20your%20home%20be%20filled%20with%20love%20and%20your%20heart%20with%20joy.%20%F0%9F%8F%A0%F0%9F%92%96%20We%20wish%20you%20a%20splendid%20Christmas%20Eve.%20Celebrate%20with%20us%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F1d59viqultQxD15gkDZ4ZQ%2Ffd430114792bcd8c26e1cc0585f615c7%2FGIF_-10_Christmas_Day.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1762554363004",
+    "title": "Kwanzaa begins",
+    "description": "Christmas and Hanukkah may be over, but Kwanzaa is just getting started! Be sure to share a message of celebration with your subscribers.",
+    "start": "2025-12-26",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#05232b",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Kwanzaa%20begins&message=Happy%20Kwanzaa!%20%F0%9F%95%AF%EF%B8%8F%20Let's%20celebrate%20unity%2C%20self-determination%2C%20and%20collective%20work%20and%20responsibility.%20Begin%20this%20vibrant%20cultural%20celebration%20with%20us.%20Enjoy%20special%20offers%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F2rq2AvSFItIK6WTFp6GmsZ%2F4f848f55cb61be34f994ec6192036010%2FGIF_-11_Kwanzaa.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1762554523623",
+    "title": "Boxing Day",
+    "description": "Christmas may be over, but the sales sure aren't! Offer your subscribers a flash sale during Boxing Day to clear out extra inventory or to make room for new arrivals for 2024.",
+    "start": "2025-12-26",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#05232b",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Boxing%20Day&message=~%23%7CBRAND%7C%23~%3A%20%F0%9F%93%A6%20Box%20up%20the%20savings!%20Our%20Boxing%20Day%20Sale%20is%20a%20knockout%20-%20up%20to%2040%25%20off%20everything.%20Shop%20till%20you%20drop!%20~%23%7CLINK%7C%23~%0A&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F6s7vMmJzDYxsuHi1mbOfxX%2F9583aca065afb2751154d5500ee1885c%2FGIF_-16_Boxing_Day.gif"
+  },
+  {
+    "id": "1762554999213",
+    "title": "End of Year Clearance / Inventory Push",
+    "description": "Send 2024 off with a bang! Help subscribers refresh their favorites while scoring amazing deals to kick off the new year right.",
+    "start": "2025-12-28",
+    "end": "2025-12-30",
+    "type": "SMS",
+    "url": "",
+    "color": "#05232b",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=End%20of%20Year%20Sales&message=~%23%7CBRAND%7C%23~%3A%20The%20grand%20finale%20you've%20been%20waiting%20for!%20Extra%20~%23%7CDISCOUNT%7C%23~%25%20off%20clearance%20to%20end%202024%20with%20a%20bang.%20Time%20to%20treat%20yourself%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F4JryVz7nOUtSPQHbkIXC4o%2F69f9a3e9aaa2d2df91917dcfe30aa49c%2FGIF_-13_End_of_Year_Sale.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1762555334052",
+    "title": "National Chocolate Candy Day",
+    "description": "What's better than chocolate? Chocolate candy!",
+    "start": "2025-12-28",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#244e5a",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Chocolate%20Candy%20Day&message=~%23%7CBRAND%7C%23~%3A%20Life%20is%20sweeter%20with%20chocolate!%20Treat%20yourself%20to%20something%20special%20this%20National%20Chocolate%20Candy%20Day.%20Shop%20our%20delights%20up%20to%20XX%25%20off%20with%20code%20~%23%7CDISCOUNT%7C%23~%3A%20~%23%7CLINK%7C%23~%20&utm_medium=guide"
+  },
+  {
+    "id": "1762555431391",
+    "title": "National Champagne Day",
+    "description": "Why wait for the end of the month to enjoy a little bubbly? Encourage your subscribers to celebrate the day stocking up on some! ",
+    "start": "2025-12-29",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#244e5a",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Champagne%20Day&message=~%23%7CBRAND%7C%23~%3A%20Time%20to%20pop%20some%20bubbly!%20%F0%9F%A5%82%20National%20Champagne%20Day%20%3D%20XX%25%20off%20site-wide.%20Use%20code%20~%23%7CDISCOUNT%7C%23~%20to%20make%20today%20extra%20special.%20Cheers%20to%20savings%3A%20~%23%7CLINK%7C%23~%20&utm_medium=guide"
+  },
+  {
+    "id": "1762555530267",
+    "title": "New Year's Eve",
+    "description": "3, 2, 1…Happy New Year! Send a message to your subscribers wishing them a fabulous 2024, whether you're offering an end-of-year sale or not!",
+    "start": "2025-12-31",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#05232b",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=New%20Year's%20Eve&message=5...4...3...2...1...%20Happy%20New%20Savings!%20%F0%9F%8E%8A%20Jumpstart%202026%20with%20fantastic%20deals%20from%20~%23%7CBRAND%7C%23~.%20Your%20countdown%20to%20savings%20starts%20now%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F1WWNmbNcLPmYjtWzGSN7Fn%2Fa608f66b57a291c1cf3cc79b6b88470d%2FGIF_-6_New_Year_s_Eve.png&utm_medium=broadcast"
+  },
+  {
+    "id": "1762555669089",
+    "title": "New Year's Day",
+    "description": "It's the perfect time to send your subscribers a greeting if you haven't yet.",
+    "start": "2026-01-01",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#244e5a",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=New%20Year's%20Day&message=~%23%7CBRAND%7C%23~%3A%20Happy%20New%20Year%20from%20everyone%20at%20BRAND!%20%F0%9F%8E%89%20As%20we%20step%20into%202025%2C%20we%E2%80%99re%20filled%20with%20gratitude%20for%20your%20support.%20Here's%20to%20a%20year%20of%20new%20adventures%20together.%20Cheers%20to%20you!%20~%23%7CLINK%7C%23~%20&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F5HdAAUCOaBC6LHBpvEZLIY%2F1df6dcfc8ab0c899ec774cd6f33f017d%2FGIF_-8_New_Year_s_Day.gif&utm_medium=guide"
+  },
+  {
+    "id": "1762558128670",
+    "title": "Black Friday VIP Early Access Reminder",
+    "description": "Remind your subscribers to avail of the discounts before doors open to the general public on Friday!",
+    "start": "2025-11-26",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#05232b",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Early%20Access%20Ends%20Soon%202&message=~%23%7CBRAND%7C%23~%3A%20%F0%9F%9A%A8%20Last%20call%20for%20Early%20Access!%20Your%20exclusive%20Black%20Friday%20deals%20end%20soon%E2%80%94don%E2%80%99t%20miss%20out.%0A%0A~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F7Dza5rHaGz6VCETPgFL7m8%2F921297bbac9e3e73930c7022d0a11fa5%2Fbf-earlyhere.gif&utm_medium=guide"
+  },
+  {
+    "id": "1762558275929",
+    "title": "Black Friday VIP Early Access Follow Up",
+    "description": "Last reminder to your subscribers to get their picks first before stocks start flying off the shelves!",
+    "start": "2025-11-26",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#05232b",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Almost%20Over%203&message=~%23%7CBRAND%7C%23~%3A%20Don%E2%80%99t%20let%20Early%20Access%20deals%20pass%20you%20by!%20Ends%20soon%E2%80%94be%20first%20in%20line%20for%20Black%20Friday.%0A%0A~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F7LeJOXVLvdiR9vwAJueFYh%2Ff0e61c937d5f0dd1bed6c5ca1908f13a%2FGIF_-1_VIP_Early_Access.gif&utm_medium=guide"
+  },
+  {
+    "id": "1762558589022",
+    "title": "Black Friday Sale Follow Up",
+    "description": "Remind your subscribers that this is the biggest sale of the year! Encourage them to save big.",
+    "start": "2025-11-28",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#05232b",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Black%20Friday%20Sale%20Follow%20Up&message=Hey%20~%23%7CNAME%7C%23~!%20Our%20Black%20Friday%20sales%20event%20is%20still%20on%2C%20but%20not%20for%20long%3A%20Enjoy%20~%23%7CDISCOUNT%7C%23~%25%20off%20sitewide%20using%20~%23%7CCODE%7C%23~%20at%20checkout%2C%20only%20through%20~%23%7CDATE%7C%23~!%20Shop%20~%23%7CBRAND%7C%23~%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F6kdFJuLeN424g9RAr6Z5Up%2F19c73f5fb2714f3075a37edc81e21b31%2Fblackfriday-earlyaccess.gif"
+  },
+  {
+    "id": "1762558735117",
+    "title": "Cyber Monday Early Access",
+    "description": "The only time anyone's ever this excited for Monday. Bring it a day early for your subscribers! ",
+    "start": "2025-11-30",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#05232b",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Cyber%20Monday%20-%20VIP%20Early%20Access%202bg&message=We%E2%80%99re%20here%20to%20make%20it%20your%20best%20Monday%20yet!%20~%23%7CBRAND%7C%23~%20Cyber%20Monday%20deals%20will%20go%20quick%2C%20and%20you%20have%20EARLY%20access!%20Shop%20now%3A%20~%23%7CLINK%7C%23~%0A&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F2zIcw8AcRazGLETrLrYl4C%2F7ae435237bc79015b57c813dda9a9dcf%2FGIF_-1_Cyber_Monday_VIP_Early_Access.gif&utm_medium=guide"
+  },
+  {
+    "id": "1762558870370",
+    "title": "Cyber Monday Sale Reminder",
+    "description": "It's (Cyber) Monday! Who doesn't love (Cyber) Mondays? Remind your subscribers of what they're missing out on.",
+    "start": "2025-12-01",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#05232b",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Cyber%20Monday%20-%20Sale%20Reminder%20HP&message=~%23%7CBRAND%7C%23~%20Cyber%20Monday%20Sale%20ends%20soon!%20Enjoy%20~%23%7C%25%7C%23~%20off%20sitewide%2C%20only%20until%20~%23%7CDATE%7C%23~!%20Shop%20now%3A%20~%23%7CLINK%7C%23~%0A&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F9SiRNVtxECMJv3rpLXFEw%2Fe3a2efa4f1066a33acceb72feb6be172%2FGIF_-2_Cyber_Monday_Sale_Reminder.gif&utm_medium=homepage"
+  },
+  {
+    "id": "1762559015241",
+    "title": "Cyber Monday Sale Follow Up",
+    "description": "It's their last chance to shop the biggest discounts! Don't let this Monday pass without one last reminder to your subscribers",
+    "start": "2025-12-01",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#05232b",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Cyber%20Monday%20-%20Sale%20Reminder%20BC&message=~%23%7CBRAND%7C%23~%20Cyber%20Monday%20Sale%20ends%20soon!%20Enjoy%20~%23%7C%25%7C%23~%20off%20sitewide%2C%20only%20until%20~%23%7CDATE%7C%23~!%20Shop%20now%3A%20~%23%7CLINK%7C%23~%0A&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F9SiRNVtxECMJv3rpLXFEw%2Fe3a2efa4f1066a33acceb72feb6be172%2FGIF_-2_Cyber_Monday_Sale_Reminder.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1762559094413",
+    "title": "Cyber Monday Sale Extended",
+    "description": "Spoil your subscribers with one final chance to shop the best prices!",
+    "start": "2025-12-02",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#05232b",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Black%20Friday%2FCyber%20Monday%20Extension%201&message=~%23%7CBRAND%7C%23~%3A%20Did%20you%20miss%20out%20on%20Black%20Friday%20%26%20Cyber%20Monday%3F%20We%E2%80%99ve%20got%20your%20back.%2048%20hours%20left%20to%20save%20BIG%20on%20what%E2%80%99s%20left!%20Don%E2%80%99t%20wait%2C%20shop%20now.%20~%23%7CLINK%7C%23~&utm_medium=guide"
   },
   {
     "id": "1759512321031",
