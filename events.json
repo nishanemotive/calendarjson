@@ -5245,5 +5245,93 @@
     "url": "",
     "color": "#6d3ae6",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Hydration%20Day&message=%3Cbrand_name%3E%3A%20National%20Hydration%20Day%20check-in%3A%20drink%20your%20water%20and%20treat%20yourself%20while%20you%E2%80%99re%20at%20it%3A.LINK%20%0A%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F3bk2ElLGxYttNG2dbLB4FG%2F51a4555122cc3c929ff89d192b69a5fd%2FNATIONAL_HYDRATION_DAY.png&utm_medium=broadcast"
+  },
+  {
+    "id": "1772637270382",
+    "title": "Fourth of July",
+    "description": "Get weekend-ready with picnic kits, coolers, SPF, and bug defense. One tap to stock up before the BBQ.",
+    "start": "2026-07-04",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#e6395c",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Fourth%20of%20July&message=BRAND%3A%20Celebrate%20the%20Fourth%20of%20July!%20Get%20DISCOUNT%25%20OFF%20sitewide%20with%20code%20CODE.%20Shop%20red%2C%20white%2C%20and%20blue%20savings%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F4X8CGsKx86cZTgsMWlcyRV%2F5df47a870cbc76cd8a28b0d1b3ffff45%2FGIF_-10_Fourth_of_July.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772638347969",
+    "title": "National Bikini Day",
+    "description": "Feature mix-and-match tops and bottoms. Plus, a fit guide. Simple to customize and conversion-ready SMS.",
+    "start": "2026-07-05",
+    "end": "",
+    "type": "Task",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Bikini%20Day&message=%3Cbrand_name%3E%3A%20Happy%20National%20Bikini%20Day.%20Ready%20for%20sun%2C%20sand%2C%20and%20confidence%3F%20Discover%20your%20summer%20essentials.%20LINK%0A%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F2EStC3pUNXTdEvnb5ste2K%2F87898f2e7f4ca70b07e81ee80401b6a4%2FIMAGE_-11_National_Bikini_Day.png&utm_medium=broadcast"
+  },
+  {
+    "id": "1772639070109",
+    "title": "International Chocolate Day",
+    "description": "Plug best-selling bars, truffles, chocolate + wine/coffee matches, and limited single-origin bars. Turn cravings into conversions.",
+    "start": "2026-07-07",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=International%20Chocolate%20Day&message=%3Cbrand_name%3E%3A%20Whether%20it%E2%80%99s%20dessert%2C%20skincare%2C%20or%20a%20cozy%20moment%2C%20today%20is%20about%20indulgence.%20Find%20your%20favorite%3ALINK%0A%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F5BIyGpjO1OryXNfXTnxFZK%2F4d56c1ac8c95342f57a42414baa8c16f%2F-13_HAPPY_CHOCOLATE_DAY_.png&utm_medium=broadcast"
+  },
+  {
+    "id": "1772642163556",
+    "title": "Fashion Day",
+    "description": "Hit send on this sitewide percent-off Fashion Day blast with a link to your site, including across best sellers. One tap to raise cart size.",
+    "start": "2026-07-09",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Fashion%20Day&message=%3Cbrand_name%3E%3A%20Fashion%20Day%20means%20style%20savings!%20Get%20DISCOUNT%25%20OFF%20sitewide%20with%20code%20CODE.%20Refresh%20your%20wardrobe%20now%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&utm_medium=broadcast"
+  },
+  {
+    "id": "1772642629831",
+    "title": "Bastille Day",
+    "description": "Showcase your French-inspired best sellers with a special one-day discount. Post-purchase upsell idea: care tips and add-ons to delight francophile hearts.",
+    "start": "2026-07-14",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Bastille%20Day&message=%3Cbrand_name%3E%3A%20Inspired%20by%20timeless%20elegance.%20Celebrate%20Bastille%20Day%20with%20something%20exceptional.%0AXX%25%20OFF%20with%20cod%20XXXX.%20%20LINK%0A%0AReply%20STOP%20to%20opt%20out&utm_medium=broadcast"
+  },
+  {
+    "id": "1772643525479",
+    "title": "National Clean Beauty Day",
+    "description": "Share your most-loved clean, vegan, and cruelty-free items. Make sure to keep certification badges (reef-safe, etc) front and center.",
+    "start": "2026-07-15",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Clean%20Beauty%20Day&message=%3Cbrand_name%3E%3A%20Happy%20Clean%20Beauty%20Day%20%F0%9F%8C%BF%20What%20you%20choose%20matters.%20Discover%20products%20made%20with%20intention%20and%20transparency%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F7kY9QWt2eqTT36IUqgzneC%2F9ddf64665a931ab283fbf65c6e080f27%2Funnamed__4_.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772643800777",
+    "title": "National Ice Cream Day",
+    "description": "Flash sale on pints with free dry-ice shipping! Create urgency and move inventory now.",
+    "start": "2026-07-19",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Ice%20Cream%20Day&message=%3Cbrand_name%3E%3A%20National%20Ice%20Cream%20Day%20deserves%20something%20fun%2C%20creamy%2C%20and%20sweet.%20Take%20DISCOUNT%25%20off%20PRODUCT%20today%20only%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F2qwsl20EfsE0p9oKfWH20e%2Faae6d7ad1bb879d39dcea5a92f914c54%2FIMAGE_-15_National_Ice_Cream_Day.png&utm_medium=broadcast"
+  },
+  {
+    "id": "1772644324584",
+    "title": "World Friendship Day",
+    "description": "Bestie deal: Reserve two, save more. Win the loyalty of friendship duos with auto-applied promos and a 24-hour timer.",
+    "start": "2026-07-30",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=World%20Friendship%20Day&message=%3Cbrand_name%3E%3A%20Happy%20World%20Friendship%20Day!%20Celebrate%20with%20DISCOUNT%25%20OFF%20when%20you%20shop%20for%20you%20and%20your%20bestie.%20Code%20CODE%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&utm_medium=broadcast"
   }
 ]
