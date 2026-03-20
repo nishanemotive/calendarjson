@@ -5630,5 +5630,137 @@
     "url": "",
     "color": "#e6395c",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Cyber%20Monday&message=~%23%7CBRAND%7C%23~%3A%20It%E2%80%99s%20Cyber%20Monday%20and%20everything%20just%20got%20better.%20Our%20best%20online%20savings%20are%20live%2C%20enjoy%20a%20~%23%7CDISCOUNT%7C%23~%25%20OFF%20storewide%20today%20only!%3A%20~%23%7CLINK%7C%23~%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F3jx0Rfs6HU5S2E3g47muzc%2F1e046ea5a6446935d667b3b8a8f418df%2FGIF_-3_Cyber_Monday.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772644680905",
+    "title": "Giving Tuesday",
+    "description": "Giving Tuesday",
+    "start": "2026-12-01",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Giving%20Tuesday&message=~%23%7CBRAND%7C%23~%3A%20Today%20is%20about%20giving%20back.%20A%20portion%20of%20proceeds%20from%20~%23%7CPRODUCT%7C%23~%20supports%20~%23%7CORGANIZATION%7C%23~%3A%20~%23%7CLINK%7C%23~%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F6pL1EZRT2s9XwK5Sf3wBpG%2Ff1f611bbdadf3be28c3838730ebbbbb0%2FGIF_-6_Giving_Tuesday.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772644752208",
+    "title": "Cyber Monday extension",
+    "description": "Cyber Monday extension",
+    "start": "2026-12-02",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Cyber%20Monday%20extension&message=~%23%7CBRAND%7C%23~%3A%20Missed%20Cyber%20Monday%3F%20You%E2%80%99ve%20got%20one%20more%20chance.%20Extended%20savings%20are%20live%20for%20a%20limited%20time%3A%20~%23%7CLINK%7C%23~%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F2OhCNPNcmeSDCJFaQjF2QN%2F1c98229d5f15393cf4089aacf357d019%2FGIF_-4_Cyber_Monday_Sale_Extended.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772644837130",
+    "title": "National Sock Day",
+    "description": "National Sock Day",
+    "start": "2026-12-04",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Sock%20Day&message=~%23%7CBRAND%7C%23~%3A%20Comfort%20starts%20from%20the%20ground%20up.%20Celebrate%20National%20Sock%20Day%20with%20~%23%7CDISCOUNT%7C%23~%20off%20~%23%7CPRODUCT%7C%23~%3A%20~%23%7CLINK%7C%23~%0AReply%20STOP%20to%20opt%20out&utm_medium=broadcast"
+  },
+  {
+    "id": "1772644904740",
+    "title": "12 Days of Christmas",
+    "description": "12 Days of Christmas",
+    "start": "2026-12-12",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=12%20days%20of%20Christmas&message=~%23%7CBRAND%7C%23~%3A%2012%20Days%20of%20Christmas%20begins%20today.%20New%20offers%20dropping%20daily.%20Day%201%20is%20live%20here%3A%20~%23%7CLINK%7C%23~%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F6D94e12OOxqg2scZ6nE1kS%2Fc70739c997a1040919e48ce6e0ed0c8b%2FGIF_-8_12_Days_of_Christmas.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772644948184",
+    "title": "Free Shipping Day",
+    "description": "Free Shipping day",
+    "start": "2026-12-14",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Free%20Shipping%20day&message=~%23%7CBRAND%7C%23~%3A%20It's%20Free%20Shipping%20Day!%20Get%20your%20items%20delivered%20at%20no%20cost%20before%20the%20holiday%20rush%3A%20~%23%7CLINK%7C%23~%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F1ZiSgrshDAPs11JW2ppZaw%2F078bba47b5ec1c3061a53533a8405182%2FGIF_-15_National_Free_Shipping_Day.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772644992644",
+    "title": "First Day of Hanukkah",
+    "description": "First Day of Hanukkah",
+    "start": "2026-12-14",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=First%20day%20of%20Hanukkah&message=~%23%7CBRAND%7C%23~%3A%20Wishing%20you%20a%20bright%20and%20meaningful%20Hanukkah.%20Celebrate%20with%20~%23%7CPRODUCT%7C%23~%20picked%20for%20the%20season%3A%20~%23%7CLINK%7C%23~%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F4TNm0pa97q2SeBrTyEXaAe%2F3dddc38ba88fe590aa056f3fbfb16ed2%2FGIF_-15_Hanukkah.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772645082588",
+    "title": "First Day of Winter",
+    "description": "First Day of Winter",
+    "start": "2026-12-21",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=First%20day%20of%20Winter&message=~%23%7CBRAND%7C%23~%3A%20Winter%20officially%20begins%20today.%20Shop%20~%23%7CPRODUCT%7C%23~%20made%20for%20the%20season%20ahead%3A%20~%23%7CLINK%7C%23~%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F3w1rDAtLvcJkUobSdLKzEw%2Fb1b323f33e32b21d06368c2c1b746f96%2FGIF_-18_First_Day_of_Winter.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772645127152",
+    "title": "Christmas eve",
+    "description": "Christmas Eve",
+    "start": "2026-12-24",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#e6395c",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Christmas%20eve&message=~%23%7CBRAND%7C%23~%3A%20Christmas%20Eve%2C%20already%3F!%20Give%20the%20gift%20of%20choice%20with%20our%20e-gift%20cards%2C%20still%20available%20today%3A%20~%23%7CLINK%7C%23~%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F5JFDuB4Y8MYe7SXARXqtgG%2F211f29ecaf875e80c46a190889489ac8%2FGIF_-9_Christmas_Eve.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772645168956",
+    "title": "Christmas",
+    "description": "Christmas",
+    "start": "2026-12-25",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#e6395c",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Christmas&message=~%23%7CBRAND%7C%23~%3A%20It's%20the%20most%20wonderful%20time%20of%20the%20year!%20We%20hope%20today%20brings%20joy%2C%20rest%2C%20and%20good%20moments.%20When%20you%E2%80%99re%20ready%2C%20we%E2%80%99re%20here%3A%20~%23%7CLINK%7C%23~%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F1d59viqultQxD15gkDZ4ZQ%2Ffd430114792bcd8c26e1cc0585f615c7%2FGIF_-10_Christmas_Day.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772645200717",
+    "title": "Boxing Day ",
+    "description": "Boxing day ",
+    "start": "2026-12-26",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Boxing%20day%20&message=~%23%7CBRAND%7C%23~%3A%20Boxing%20Day%20savings%20are%20on.%20Take%20~%23%7CDISCOUNT%7C%23~%20off%20~%23%7CPRODUCT%7C%23~%20while%20year-end%20deals%20run%3A%20~%23%7CLINK%7C%23~%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F6s7vMmJzDYxsuHi1mbOfxX%2F9583aca065afb2751154d5500ee1885c%2FGIF_-16_Boxing_Day.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772645242107",
+    "title": "First Day of Kwanzaa",
+    "description": "First Day of Kwanzaa",
+    "start": "2026-12-26",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=First%20day%20of%20Kwanzaa&message=~%23%7CBRAND%7C%23~%3A%20Wishing%20you%20a%20joyful%20Kwanzaa%20filled%20with%20purpose%20and%20togetherness.%20Celebrate%20with%20something%20thoughtful%3A%20~%23%7CLINK%7C%23~%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F2rq2AvSFItIK6WTFp6GmsZ%2F4f848f55cb61be34f994ec6192036010%2FGIF_-11_Kwanzaa.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772645279889",
+    "title": "New Year's Eve ",
+    "description": "New Year's Eve ",
+    "start": "2026-12-31",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#e6395c",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=New%20Year's%20Eve%20&message=~%23%7CBRAND%7C%23~%3A%20New%20year%2C%20new%20memories!%20Celebrate%20with%20a%20haul%20of%20everything%20you've%20been%20eyeing%3A%20~%23%7CLINK%7C%23~%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F3TcNYm1Z52XTnulnvQ8bSl%2F3fae6048bcbb1f41bae922d434d15039%2Fnew_year-s_eve.gif&utm_medium=broadcast"
   }
 ]
