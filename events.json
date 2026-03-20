@@ -5036,5 +5036,104 @@
     "url": "",
     "color": "#6d3ae6",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Superhero%20Day&message=%3Cbrand_name%3E%3A%20Everyday%20heroes%20deserve%20gear%20that%20keeps%20up.%20Take%20DISCOUNT%25%20off%20PRODUCT%20for%20Nat'l%20Superhero%20Day%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&utm_medium=broadcast"
+  },
+  {
+    "id": "1772619103197",
+    "title": "Global Love Day",
+    "description": "Show customers some love with discounts, freebie-with-purchase, and curated bundles. Encourage gifting to friends and self-care treats in one send.",
+    "start": "2026-05-01",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Global%20Love%20Day&message=%3Cbrand_name%3E%3A%20A%20little%20care%20goes%20a%20long%20way.%20Share%20something%20meaningful%20or%20treat%20yourself%20this%20%20Global%20Love%20Day%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&utm_medium=broadcast"
+  },
+  {
+    "id": "1772619244146",
+    "title": "Mother's Day shipping",
+    "description": "It's never too early to start planning for Mother's Day! Send a broadcast to your subscribers offering a discount for ordering early.",
+    "start": "2026-05-03",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Mother's%20day%20shipping&message=%3Cbrand_name%3E%3A%20Mother%E2%80%99s%20Day%20is%20coming%20up%20soon.%20Want%20to%20pick%20out%20something%20special%20for%20Mom%20ahead%20of%20time%20so%20you%E2%80%99re%20prepared%3F%20LINK%0A%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F4KGgpXKScLLC0vdEip09Ez%2F2de635212ac59239c42f955eda67438b%2FGIF_-1_Order_Ahead_for_Mother-s_Day.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772619347486",
+    "title": "Cinco de Mayo",
+    "description": "Not a food & beverage brand? Send subscribers your 5 best deals of the day, run a 5-day flash sale or simply keep things festive by having a big savings fiesta.",
+    "start": "2026-05-05",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Cinco%20de%20Mayo&message=%3Cbrand_name%3E%3A%20Mark%20Cinco%20de%20Mayo%20with%20a%20limited-time%20offer.%20Enjoy%20DISCOUNT%25%20off%20PRODUCT%20today%20only%20and%20celebrate%20with%20something%20worth%20sharing%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F6efRDxFZ9H9HTWzTl0TufZ%2F56b6c49dc9e585dd48714546b081b940%2FGIF_-13_Cinco_De_Mayo.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772619683952",
+    "title": "Mother's Day",
+    "description": "Support your subscribers' love for all the important women in their lives, including those who are mother figures.",
+    "start": "2026-05-10",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#e6395c",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Mother's%20Day&message=%3Cbrand_name%3E%3A%20To%20the%20moms%20who%20do%20it%20all%2C%20%20we%E2%80%99re%20celebrating%20you%20today!%20%20%0AStill%20need%20something%20special%3F%20A%20gift%20card%20is%20the%20gift%20of%20choice%3A%20LINK%3A%20%0A%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F3sl5x9hWsW4f67PBRMKP0y%2F8331f0d46cc3067bec82e759a55e581a%2FGIF_-2_Mother_s_Day_Inclusive_Greeting.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772620473357",
+    "title": "Bike to Work Day",
+    "description": "Ride the momentum! Shift sales into high gear by highlighting commuter discounts, tune-ups, and accessories.",
+    "start": "2026-05-15",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Bike%20to%20Work%20Day&message=%3Cbrand_name%3E%3A%20Move%20smarter%20this%20Bike%20to%20Work%20Day.%20Shop%20PRODUCT%20that%20fits%20your%20daily%20routine%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&utm_medium=broadcast"
+  },
+  {
+    "id": "1772621043263",
+    "title": "International Tea Day",
+    "description": "Brew up sales with an SMS, spotlighting sampler kits, bundle savings, and perks. Sweeten the sip.",
+    "start": "2026-05-21",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=International%20Tea%20Day&message=%3Cbrand_name%3E%3A%20Slow%20down%20or%20keep%20it%20simple.%20Find%20items%20made%20for%20everyday%20rituals%20this%20International%20Tea%20Day%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&utm_medium=broadcast"
+  },
+  {
+    "id": "1772621451275",
+    "title": "Memorial Day",
+    "description": "Mark the day with a message featuring long‑weekend savings. Boost traffic and brand trust.",
+    "start": "2026-05-25",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#e6395c",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Memorial%20Day&message=%3Cbrand_name%3E%3A%20Memorial%20Day%20savings%2C%20thoughtfully%20timed.%20Shop%20DISCOUNT%25%20off%20all%20items%20while%20we%20honor%20the%20day%20with%20respect%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F2uaGjJX5CqVlq24EDcgnPG%2Fb8911650265aa1105ece5b5386a6decb%2FGIF_-32_Memorial_Day_Sale_Announcement.gif"
+  },
+  {
+    "id": "1772622135488",
+    "title": "National Sunscreen Day",
+    "description": "Celebrate skin safety by promoting broad‑spectrum best sellers, water‑resistant picks, and family packs. Make SPF the MVP.",
+    "start": "2026-05-27",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Sunscreen%20Day&message=%3Cbrand_name%3E%3A%20Sun%E2%80%99s%20out%20SPF%E2%80%99s%20on.%20Celebrate%20Sunscreen%20Day%20with%2020%25%20off%20all%20sun%20care!%20Shop%20now%3A%20%7B%7Blink%7D%7D%20LINK%0A%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F6Vp79hJKN7ox9wIbCDqEhg%2Fa9eb2b36c658b964955d2e8cda11d269%2FGIF_-28_National_Sunscreen_Day.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772622938616",
+    "title": "National Burger Day",
+    "description": "Last-minute friendly: promote curbside pickup, same-day delivery, and low-stock alerts. Send morning-of to win the day.",
+    "start": "2026-05-28",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Burger%20Day&message=%3Cbrand_name%3E%3A%20National%20Burger%20Day%20calls%20for%20something%20juicy%20and%20satisfying.%20Make%20it%20worth%20the%20bite%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&utm_medium=broadcast"
   }
 ]
