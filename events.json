@@ -5454,5 +5454,82 @@
     "url": "",
     "color": "#6d3ae6",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=First%20Day%20of%20Fall&message=%3Cbrand_name%3E%3A%20Fall%20has%20officially%20arrived.%20Celebrate%20with%20XX%25%20OFF%2C%20today%20only.%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F11WnakLAlfg66OJH9WAF5Z%2Fd37ae99102758102eb54c2583a2bfddf%2FFirst_Day_of_Fall.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772216797723",
+    "title": "International Coffee Day ",
+    "description": "Highlight your best brews or limited-edition roast drops with tasting notes. One-tap shop link and low-stock alert.",
+    "start": "2026-10-01",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=International%20Coffee%20Day%20&message=~%23%7CBRAND%7C%23~%3A%20International%20Coffee%20Day%20calls%20for%20your%20favorite%20ritual.%20Start%20your%20day%20right%3A%20~%23%7CLINK%7C%23~&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F72otCV7WlDScxPMOB4wOUo%2Fd945b09977a66d038a5f8ba34dda9e6b%2F-21_Happy_NATIONAL_COFFEE_DAY_.png&utm_medium=guide"
+  },
+  {
+    "id": "1772216859720",
+    "title": "National Hair Day ",
+    "description": "Get your customers excited about National Hair Day. Perfect for promoting product sales, booking appointments, or simply celebrating fabulous hair!",
+    "start": "2026-10-01",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Hair%20day%20&message=~%23%7CBRAND%7C%23~%3A%20Good%20hair%20days%20start%20with%20the%20right%20essentials.%20Explore%20products%20made%20to%20support%20your%20routine%20this%20National%20Hair%20day%3A%20~%23%7CLINK%7C%23~%20Reply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F1kcYnIRsoFMpZU7fCwMifE%2F4507a6d9aeadec5090a24555b45efd56%2FIMAGE_-4_National_Hair_Day.png&utm_medium=guide"
+  },
+  {
+    "id": "1772216929319",
+    "title": "World Teachers Day ",
+    "description": "Classroom snack box you can sponsor. Curated “Teacher Treat” bundle (coffee + pastry). Flowers or a sweet box. Encourage subscribers to gift a teacher.",
+    "start": "2026-10-05",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#e6395c",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=World%20Teachers%20day%20&message=~%23%7CBRAND%7C%23~%3A%20Great%20teachers%20deserve%20more%20than%20an%20apple.%20Find%20the%20perfect%20thank%20you%20gift%20today%3A%20~%23%7CLINK%7C%23~%20Reply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2FJz8fvAdUDct3y0iokMHWq%2F5f61c77a054d33dc0ad87984a021672b%2FIMAGE_-10_World_Teachers_Day.png&utm_medium=guide"
+  },
+  {
+    "id": "1772216983216",
+    "title": "World Mental Health Day",
+    "description": "Show your care by sending subscribers a gentle reminder to put themselves first, focus on self-care, and take a moment to breathe. Thoughtful, simple gestures can go a long way.",
+    "start": "2026-10-10",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=World%20Mental%20health%20Day&message=~%23%7CBRAND%7C%23~%3A%20%20Take%20a%20small%20moment%20to%20check%20in%20with%20yourself%20this%20World%20Mental%20health%20Day.%20Support%20balance%20and%20well-being%20shopping%20here%3A%20%20~%23%7CLINK%7C%23~%20Reply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F2a1g43oV4klJ39vNqCv01m%2Fd7b784fe76fdc1cf63a1115e7b1aa505%2FIMAGE_-13_World_Mental_Health_Day.png&utm_medium=guide"
+  },
+  {
+    "id": "1772217080252",
+    "title": "Breast Cancer Awareness Day ",
+    "description": "Show your subscribers that you give tangible support to important causes, and invite them to join you in making an impact.",
+    "start": "2026-10-13",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#e6395c",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Breast%20Cancer%20Awareness%20day%20&message=~%23%7CBRAND%7C%23~%3A%20Breast%20Cancer%20Awareness%20Day%20%F0%9F%92%97Today%E2%80%99s%20sales%20support%20ORGANIZATION.%20Thank%20you%20for%20shopping%20with%20purpose%3A%20%20~%23%7CLINK%7C%23~%20Reply%20STOP%20to%20opt%20out&utm_medium=guide"
+  },
+  {
+    "id": "1772217120081",
+    "title": "Pre Halloween Sale",
+    "description": "Ready-to-send Pre-Halloween Sale SMS with playful spooky tone and early-bird code. Flash fright deals drop before the big day.",
+    "start": "2026-10-21",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Pre%20Halloween%20Sale&message=~%23%7CBRAND%7C%23~%3A%20Pre-Halloween%20Sale%20is%20live%20%F0%9F%8E%83%20Get%20a%20scary%20good%20~%23%7CDISCOUNT%7C%23~%25%20off!%20Ends%20~%23%7CDATE%7C%23~%3A%20~%23%7CLINK%7C%23~%20Reply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F2hODG9IZqP8R1cos0ZZJSe%2F06fb6905a0e369f9ee6dea5efa21455b%2Fhalloween__1_.gif&utm_medium=guide"
+  },
+  {
+    "id": "1772217255845",
+    "title": "Halloween",
+    "description": "Trick‑or‑treat day special! Price-drop alert sitewide or on wishlisted spooky items. MMS option with a festive GIF.",
+    "start": "2026-10-31",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#e6395c",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Halloween&message=~%23%7CBRAND%7C%23~%3A%20Happy%20Halloween%20%F0%9F%91%BB%20Treat%20yourself%20to~%23%7CDISCOUNT%7C%23~%25%20off%20today%20only.%20No%20tricks%2C%20just%20good%20deals%3A%20~%23%7CLINK%7C%23~%20Reply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2FSShivfuuBloUeJHCdEtE7%2Fed7a72a99b19e5b8de76f001755ef016%2FIMAGE_-24_Halloween.png&utm_medium=guide"
   }
 ]
