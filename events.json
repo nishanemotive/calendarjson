@@ -4915,5 +4915,128 @@
     "url": "",
     "color": "#6d3ae6",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Crayon%20Day&message=~%23%7CBRAND%7C%23~%3A%20Color%20outside%20the%20lines.%20Shop%20~%23%7CDISCOUNT%7C%23~%25%20off%20~%23%7CPRODUCT%7C%23~%20this%20National%20Crayon%20Day%20for%20a%20little%20out-of-the-box%20fun%3A%20~%23%7CLINK%7C%23~%0A%0AReply%20STOP%20to%20opt%20out&utm_medium=broadcast"
+  },
+  [
+  {
+    "id": "1772547147053",
+    "title": "April Fool's Day",
+    "description": "Crack a joke or offer a discount if your subscribers reply back to your message with the answer to your riddle for April Fools Day.",
+    "start": "2026-04-01",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=April%20Fool's%20Day&message=%3Cbrand_name%3E%3A%20No%20fools%20%26%20tricks%20here.%20Just%20a%20smart%20deal%20worth%20clicking.%20Take%20DISCOUNT%25%20off%20PRODUCT%20today%20only%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2FpEbHGSD01mfjkekgSaWwc%2Ffdf599191c8d407d566ca0c4f3a6eeb0%2FGIF_-12_April_Fools-_Day.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772548303806",
+    "title": "Easter Sunday",
+    "description": "Do some spring cleaning and run an Easter Sale with discounts on (spring) items. Hop to it!",
+    "start": "2026-04-05",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#e6395c",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Easter%20Sunday&message=%3Cbrand_name%3E%3A%20Happy%20Easter!%20A%20day%20for%20fresh%20starts%20and%20thoughtful%20picks.%20Explore%20PRODUCT%20or%20enjoy%20DISCOUNT%25%20off%20while%20it%20lasts%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&imageUrl=%5Bobject%20Object%5D&utm_medium=broadcast"
+  },
+  {
+    "id": "1772549618560",
+    "title": "Last Month's Big Event Ends",
+    "description": "Score conversions during the tournament finale with a promo SMS. Make the final buzzer count.",
+    "start": "2026-04-06",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#e6395c",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=March%20Madness%20ends&message=%3Cbrand_name%3E%3A%20The%20final%20buzzer%20is%20close%20%F0%9F%8F%80%20Wrap%20things%20up%20strong%20with%20DISCOUNT%25%20off%20PRODUCT%20today%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F2zgUpA6XNcc6dOIixr0M5V%2F7c34227879c2a19ae5a1c3898e59a54b%2FMarch_Madness_Begins.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772549764455",
+    "title": "World Health Day",
+    "description": "Share an inspiring message highlighting this year's theme or encouraging your subscribers to practice self-care, self-love and prioritize their health.",
+    "start": "2026-04-07",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=World%20Health%20Day&message=%3Cbrand_name%3E%3A%20World%20Health%20Day%20reminder%3A%20small%20habits%20make%20a%20big%20difference.%20Find%20your%20feel-good%20favorites%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&imageUrl=%5Bobject%20Object%5D&utm_medium=broadcast"
+  },
+  {
+    "id": "1772549866711",
+    "title": "National Siblings Day",
+    "description": "Celebrate this day by encouraging your subscribers to show their love for their siblings by treating them to something special with a today-only discount.",
+    "start": "2026-04-10",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Siblings%20Day&message=%3Cbrand_name%3E%3A%20Built-in%20best%20friends%20deserve%20good%20finds.%20Shop%20gifts%20worth%20sharing%20this%20National%20Siblings%20Day%20or%20keeping%20for%20yourself%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F3wIcCBjUvLKuwl9OMdResk%2F4b57b30b426dd08910a112373b662f3e%2FGIF_-17_National_Siblings_Day.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772550244907",
+    "title": "National Pet Day",
+    "description": "Pet brands: This is your day! Celebrate big with a sitewide sale all pet owners will love. Because their pets deserve the best.",
+    "start": "2026-04-11",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Pet%20Day&message=%3Cbrand_name%3E%3A%20For%20our%20furry%20pals%20who%20make%20every%20day%20better.%20Find%20something%20special%20for%20your%20pet%20this%20Nat'l%20Pet%20Day%20here%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&imageUrl=%5Bobject%20Object%5D&utm_medium=broadcast"
+  },
+  {
+    "id": "1772550484137",
+    "title": "Tax Day",
+    "description": "With the arrival of this dreaded day, offer your subscribers some much-needed relief with your best money-saving deals or a reward for getting their taxes done.",
+    "start": "2026-04-15",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#e6395c",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Tax%20Day&message=%3Cbrand_name%3E%3A%20One%20less%20thing%20to%20think%20about%20today.%20Reward%20yourself%20for%20checking%20something%20off%20your%20list%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F2Lqcn03QNlkUhKtBFjWmAY%2F10b8baf9619ea0c368063d5499e8eefc%2FGIF_-21_Tax_Day.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772551430744",
+    "title": "Record Store Day",
+    "description": "Spotlight limited-edition drops, exclusive deals, and event hours to convert the vinyl rush.",
+    "start": "2026-04-18",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Record%20Store%20Day&message=%3Cbrand_name%3E%3A%20For%20people%20who%20appreciate%20high%20quality%20audio%20%26%20the%20classic%20experience%20of%20vinyl%2C%20explore%20PRODUCT%20this%20Record%20Store%20Day%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&utm_medium=broadcast"
+  },
+  {
+    "id": "1772551600702",
+    "title": "Earth Day",
+    "description": "Is sustainability part of your brand's mission? Be sure to share an informative message highlighting your efforts as well as your sustainability goals for 2025.",
+    "start": "2026-04-22",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#e6395c",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Earth%20Day&message=%3Cbrand_name%3E%3A%20Thoughtful%20choices%20matter.%20This%20Earth%20Day%2C%20learn%20more%20about%20PRODUCT%20and%20how%20your%20purchase%20makes%20an%20impact%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2Fr1ioRimPbltm9T2DFLagj%2F9a5385c2cf370ee9a0be3bedc874b4b7%2FEARTH_DAY_Educational.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772551681474",
+    "title": "Arbor Day",
+    "description": "Is sustainability at the heart and core of your brand? Promote environmental awareness by sharing an informative message highlighting your efforts and how you celebrate nature.",
+    "start": "2026-04-24",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#e6395c",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Arbor%20Day&message=%3Cbrand_name%3E%3A%20From%20one%20tree%20to%20a%20forest%2C%20your%20choices%20add%20up.%20Make%20a%20bigger%20impact%20and%20shop%20eco-conscious%20picks%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&imageUrl=%5Bobject%20Object%5D&utm_medium=broadcast"
+  },
+  {
+    "id": "1772552126255",
+    "title": "National Superhero Day",
+    "description": "Power up sales! Promote limited-time “super” bundles and drive quick conversions.",
+    "start": "2026-04-28",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Superhero%20Day&message=%3Cbrand_name%3E%3A%20Everyday%20heroes%20deserve%20gear%20that%20keeps%20up.%20Take%20DISCOUNT%25%20off%20PRODUCT%20for%20Nat'l%20Superhero%20Day%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&utm_medium=broadcast"
   }
+]
 ]
