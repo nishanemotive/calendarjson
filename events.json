@@ -5135,5 +5135,115 @@
     "url": "",
     "color": "#6d3ae6",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Burger%20Day&message=%3Cbrand_name%3E%3A%20National%20Burger%20Day%20calls%20for%20something%20juicy%20and%20satisfying.%20Make%20it%20worth%20the%20bite%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&utm_medium=broadcast"
+  },
+  {
+    "id": "1772623579738",
+    "title": "Nail Polish Day",
+    "description": "Promote quick-dry best sellers, gel/long-wear picks, and repeat purchases.",
+    "start": "2026-06-01",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Nail%20Polish%20Day&message=%3Cbrand_name%3E%3A%20Happy%20Nail%20Polish%20Day%20%F0%9F%92%85%E2%9C%A8Take%2010%20minutes%20for%20you.%20Shop%20your%20beauty%20favorites%20today%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&utm_medium=broadcast"
+  },
+  {
+    "id": "1772623789079",
+    "title": "National Donut Day",
+    "description": "Drive foot traffic with an on-brand SMS announcing early-bird pricing and happy-hour half-dozens. Include store hours and location links.",
+    "start": "2026-06-05",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Donut%20Day&message=%3Cbrand_name%3E%3A%20Donut%20forget%E2%80%A6%20you%20deserve%20a%20little%20something%20sweet.%20%0ATap%20to%20treat%20yourself%20this%20National%20Donut%20Day%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F2YpqdMBXh8zkPyV3cxbJHI%2F8742bac28e389c07161ecfaaf53d0629%2FNational_Donut_Day.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772624095627",
+    "title": "National Eyewear Day",
+    "description": "Drop the latest with an SMS, teasing limited-edition frames and colorways plus restock alerts. Add countdowns to fuel urgency.",
+    "start": "2026-06-06",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Eyewear%20Day&message=%3Cbrand_name%3E%3A%20Happy%20National%20Eyewear%20Day.%20A%20fresh%20perspective%20starts%20here.%20Discover%20something%20new%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&utm_medium=broadcast"
+  },
+  {
+    "id": "1772624359133",
+    "title": "National Iced Tea Day",
+    "description": "Entertain at home: use this SMS to promote gallon jugs, pitchers, and cold brew kits. Perfect for offices, parties, and meal-prep shoppers.",
+    "start": "2026-06-10",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Iced%20Tea%20Day&message=%3Cbrand_name%3E%3A%20National%20Iced%20Tea%20day%20is%20here.%20Perfect%20reason%20to%20get%20a%20refreshment%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&utm_medium=broadcast"
+  },
+  {
+    "id": "1772632253358",
+    "title": "Global Wellness Day",
+    "description": "Tease limited self-care sets, recovery tools, and restock alerts. Add countdowns to fuel urgency and sign-ups.",
+    "start": "2026-06-13",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Global%20Wellness%20Day&message=%3Cbrand_name%3E%3A%20Happy%20Global%20Wellness%20Day.%20Take%20a%20moment%20for%20yourself%20and%20invest%20in%20what%20makes%20you%20feel%20your%20best%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F2KYAnSjtf4dCTWeq7TpQPE%2F2662d354452169fc8dbd6323fd3512dd%2FGLOBAL_WELLNESS_DAY.png&utm_medium=broadcast"
+  },
+  {
+    "id": "1772633386636",
+    "title": "Father's Day shipping",
+    "description": "Deliver Dad’s gift on time by spotlighting order-by deadlines and express upgrades. Send now to secure on-time arrivals and lift conversions.",
+    "start": "2026-06-13",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Father's%20Day%20shipping&message=%3Cbrand_name%3E%3A%20Show%20Dad%20some%20love!%20DISCOUNT%25%20OFF%20Father's%20Day%20gifts%20with%20CODE.%20Shop%20now%20get%20your%20order%20in%20time%20for%20his%20day%20%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F1AiPYufLBM7UABxPFmEMIT%2Ff1462188adf6a71c356d54e13235d101%2FIMAGE_-8_Father_s_Day_-_Last-Min_Gifting__1_.png&utm_medium=broadcast"
+  },
+  {
+    "id": "1772633776301",
+    "title": "Juneteenth",
+    "description": "A respectful Juneteenth message that honors the day. Launch to deepen community engagement and drive impact.",
+    "start": "2026-06-19",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#e6395c",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Juneteenth&message=%3Cbrand_name%3E%3A%20Juneteenth%20is%20a%20day%20of%20recognition%20and%20reflection.%20Today%2C%20PERCENT%25%20of%20proceeds%20support%20ORGANIZATION.%20Learn%20more%20here%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F7y4fcSQe32Kzxs0awxW524%2F7c6a38cb28fb7a415ec2efedc7e90b0b%2FJuneteenth.png&utm_medium=broadcast"
+  },
+  {
+    "id": "1772634146766",
+    "title": "Father's Day",
+    "description": "Last-minute friendly SMS promoting e-gift cards with instant delivery and personalized notes. Perfect for procrastinators, quick to customize.",
+    "start": "2026-06-21",
+    "end": "",
+    "type": "Task",
+    "url": "",
+    "color": "#e6395c",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Father's%20Day&message=%3Cbrand_name%3E%3A%20Today%20we%20celebrate%20every%20dad%20and%20everything%20they%20do.%20If%20you%20haven%E2%80%99t%20picked%20a%20gift%20yet%2C%20send%20a%20gift%20card%20and%20let%20him%20decide%3A%20LINK.%0A%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F4MNnNr4IPf0GmeQPKycLEd%2F1244d69aaac4287dead832cea6ec566a%2FGIF_-6_Father_s_Day_-_Inclusive_Messaging.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772634573061",
+    "title": "First Day of Summer",
+    "description": "Highlight summer boxes, carry-on kits, minis, and more. Get those start of season carts filling up.",
+    "start": "2026-06-21",
+    "end": "",
+    "type": "Task",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=First%20Day%20of%20Summer&message=%3Cbrand_name%3E%3A%20Hello%2C%20summer%20.Longer%20days%2C%20lighter%20moods%2C%20new%20beginnings.%20Discover%20something%20fresh%20for%20the%20season.%20LINK%0A%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F56LBpCij59nTnhZ7eGZydg%2Fb28a82f2ce597d683d2ad944fe641346%2FGIF_-17_First_Day_of_Summer.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772635833160",
+    "title": "National Hydration Day",
+    "description": "Hydration check-in nudge with a friendly “sip now” reminder and a single CTA to your top hydration gear. Built for engagement and fast conversions.",
+    "start": "2026-06-23",
+    "end": "",
+    "type": "Task",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Hydration%20Day&message=%3Cbrand_name%3E%3A%20National%20Hydration%20Day%20check-in%3A%20drink%20your%20water%20and%20treat%20yourself%20while%20you%E2%80%99re%20at%20it%3A.LINK%20%0A%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F3bk2ElLGxYttNG2dbLB4FG%2F51a4555122cc3c929ff89d192b69a5fd%2FNATIONAL_HYDRATION_DAY.png&utm_medium=broadcast"
   }
 ]
