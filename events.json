@@ -5531,5 +5531,104 @@
     "url": "",
     "color": "#e6395c",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Halloween&message=~%23%7CBRAND%7C%23~%3A%20Happy%20Halloween%20%F0%9F%91%BB%20Treat%20yourself%20to~%23%7CDISCOUNT%7C%23~%25%20off%20today%20only.%20No%20tricks%2C%20just%20good%20deals%3A%20~%23%7CLINK%7C%23~%20Reply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2FSShivfuuBloUeJHCdEtE7%2Fed7a72a99b19e5b8de76f001755ef016%2FIMAGE_-24_Halloween.png&utm_medium=guide"
+  },
+  {
+    "id": "1772553850676",
+    "title": "National Candy Day ",
+    "description": "National Candy Day ",
+    "start": "2026-11-04",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Candy%20Day%20&message=~%23%7CBRAND%7C%23~%3A%20Sweet%20deals%20pair%20well%20with%20a%20good%20treat.%20Enjoy%20~%23%7CDISCOUNT%7C%23~%25%20off%20~%23%7CPRODUCT%7C%23~%20today%20only%3A%20~%23%7CLINK%7C%23~%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F5diSRP4tCrRYKin8KM1WrQ%2F17ca5b4156a81eadcf463c495fcbaf12%2FGIF_-5_National_Candy_Day.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772553947743",
+    "title": "Veterans Day",
+    "description": "Veterans Day",
+    "start": "2026-11-11",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Veterans%20Day&message=~%23%7CBRAND%7C%23~%3A%20Today%20we%20honor%20those%20who%20served.%20As%20a%20thank-you%2C%20enjoy%20~%23%7CDISCOUNT%7C%23~%25%20off%20~%23%7CPRODUCT%7C%23~%20through%20~%23%7CDATE%7C%23~%3A%20~%23%7CLINK%7C%23~%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F7IWQqW7wdcxL8IoctW6LgV%2F68da496235b64b2958245e973eb89d8f%2FGIF_-9_Veterans_Day.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772554139337",
+    "title": "Singles Day ",
+    "description": "Singles Day ",
+    "start": "2026-11-11",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Singles%20Day%20&message=~%23%7CBRAND%7C%23~%3A%20Shopping%20for%20one%3F%20This%20Singles%20Day%2C%20we%20got%20you.%20Take%20~%23%7CDISCOUNT%7C%23~%25%20off%20~%23%7CPRODUCT%7C%23~%20and%20shop%20a%20haul%20that%E2%80%99s%20all%20yours%3A%20~%23%7CLINK%7C%23~%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F68VpjrvtGu7XRxXcAIGFGJ%2F62472920434cf36e7d9035fd884b4fe3%2FGIF_-10_Singles-_Day.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772554191129",
+    "title": "World Kindness Day ",
+    "description": "World Kindness Day ",
+    "start": "2026-11-13",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=World%20Kindness%20Day%20&message=~%23%7CBRAND%7C%23~%3A%20A%20small%20act%20can%20go%20a%20long%20way.%20%20Be%20part%20of%20something%20positive%20this%20World%20Kindness%20Day%3A%20~%23%7CLINK%7C%23~%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F5RjvEPE6ahycFsLPj71HGB%2F8957bdcecc9eb12a3d5cbe0afa87a50c%2FIMAGE_-3_World_Kindness_Day.png&utm_medium=broadcast"
+  },
+  {
+    "id": "1772554265750",
+    "title": "Early Access Black Friday ",
+    "description": "Early Access Black Friday ",
+    "start": "2026-11-25",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Early%20Access%20Black%20Friday%20&message=~%23%7CBRAND%7C%23~%3A%20Early%20access%2C%20unlocked.%20Shop%20our%20Black%20Friday%20deals%20before%20everyone%20else.%20Save%20up%20to%20~%23%7CDISCOUNT%7C%23~%25%20now%3A%20~%23%7CLINK%7C%23~%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F7ISzbknbVsXzB1roNoNYmZ%2Fabcbbe30a617a2cbc98a1a4dadf7e8f2%2FGIF_-2_Black_Friday.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772554338750",
+    "title": "Thanksgiving",
+    "description": "Thanksgiving",
+    "start": "2026-11-26",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#e6395c",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Thanksgiving&message=~%23%7CBRAND%7C%23~%3A%20Grateful%20for%20customers%20like%20you.%20Enjoy%20a%20special%20Thanksgiving%20offer%20on%20~%23%7CPRODUCT%7C%23~%20today%3A%20~%23%7CLINK%7C%23~%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F1CoE6XwOTZTSzxaNLdj7lN%2F66f58ae4b0c8d0113874c7fd77b7ba3d%2FIMAGE_-8_Thanksgiving_.png&utm_medium=broadcast"
+  },
+  {
+    "id": "1772554415449",
+    "title": "Black Friday",
+    "description": "Black Friday",
+    "start": "2026-11-27",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#e6395c",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Black%20Friday&message=~%23%7CBRAND%7C%23~%3A%20Black%20Friday%20is%20LIVE!%20Don't%20miss%20out%20on%20%20~%23%7CDISCOUNT%7C%23~!%20%20The%20deals%20you%E2%80%99ve%20been%20waiting%20for%20are%20here%3A%20~%23%7CLINK%7C%23~%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F6kdFJuLeN424g9RAr6Z5Up%2F19c73f5fb2714f3075a37edc81e21b31%2Fblackfriday-earlyaccess.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772554500108",
+    "title": "Small Business Saturday ",
+    "description": "Small Business Saturday ",
+    "start": "2026-11-28",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#e6395c",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Small%20Business%20Saturday%20&message=~%23%7CBRAND%7C%23~%3A%20Business%20Saturday%20special%20pricing%20is%20here.%20Save%20%20~%23%7CDISCOUNT%7C%23~%20on%20~%23%7CPRODUCT%7C%23~%20while%20offers%20last%3A%20~%23%7CLINK%7C%23~%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F3t011j4hFHDjsQ4Kr1gxhk%2F7cf67d9c670ebf3bf7ed5de79db4813d%2FGIF_-5_Small_Business_Saturday.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772554599184",
+    "title": "Cyber Monday",
+    "description": "Cyber Monday",
+    "start": "2026-11-30",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#e6395c",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Cyber%20Monday&message=~%23%7CBRAND%7C%23~%3A%20It%E2%80%99s%20Cyber%20Monday%20and%20everything%20just%20got%20better.%20Our%20best%20online%20savings%20are%20live%2C%20enjoy%20a%20~%23%7CDISCOUNT%7C%23~%25%20OFF%20storewide%20today%20only!%3A%20~%23%7CLINK%7C%23~%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F3jx0Rfs6HU5S2E3g47muzc%2F1e046ea5a6446935d667b3b8a8f418df%2FGIF_-3_Cyber_Monday.gif&utm_medium=broadcast"
   }
 ]
