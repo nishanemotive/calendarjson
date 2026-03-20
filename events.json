@@ -5388,5 +5388,71 @@
     "url": "",
     "color": "#6d3ae6",
     "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Dog%20Day&message=%3Cbrand_name%3E%3A%20National%20Dog%20Day%20calls%20for%20treats!%20Give%20your%20pup%20(or%20any%20fur%20parent)%20DISCOUNT%25%20OFF%20with%20code%20CODE.%20Celebrate%20today%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F2Xmn9OPgzZVjDgZD7lWeiJ%2F5f63905362faa86aac4f4777cc8c7c27%2FIMAGE_-15_National_Dog_Day.png&utm_medium=broadcast"
+  },
+  {
+    "id": "1772648319406",
+    "title": "World Beard Day",
+    "description": "Plug-and-play “Groom & Save” promo on razors, wash, and styling. One tap to shop with auto-applied savings. Gentle nudge, possibly strong results.",
+    "start": "2026-09-05",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=World%20Beard%20Day&message=BRAND%3A%20World%20Beard%20Day%20is%20for%20proper%20upkeep.%20Shop%20grooming%20essentials%20and%20enjoy%20DISCOUNT%25%20off%20PRODUCT%20today%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&utm_medium=broadcast"
+  },
+  {
+    "id": "1772648447000",
+    "title": "Labor Day",
+    "description": "Launch your Labor Day sale with maximum impact. Weekend shoppers are ready to spend - capture their attention immediately.",
+    "start": "2026-09-07",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#e6395c",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Labor%20Day&message=%3Cbrand_name%3E%3A%20Labor%20Day%20savings%20start%20now!%20Get%20DISCOUNT%25%20OFF%20sitewide%20with%20code%20CODE.%20You've%20earned%20this%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F3nzud2s6fk02sk5l3JEvvL%2F88472f4132ea9476622c82931dac51a8%2FLD_Sale_Announcement.gif&utm_medium=broadcast"
+  },
+  {
+    "id": "1772648901011",
+    "title": "Patriot Day",
+    "description": "Respectful, ready-to-send Patriot Day SMS honoring remembrance and service. Option: include a moment-of-silence note.",
+    "start": "2026-09-11",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=Patriot%20Day&message=%3Cbrand_name%3E%3A%20On%20this%20Patriot%20Day%2C%20we%20reflect%20on%20strength%2C%20courage%2C%20and%20community.%20We%20stand%20together%20in%20remembrance%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&utm_medium=broadcast"
+  },
+  {
+    "id": "1772649409858",
+    "title": "National Cheeseburger Day",
+    "description": "Ready-to-send National Cheeseburger Day discount SMS: % off all cheeseburgers with one-tap order links. Boost conversions in a single tap.",
+    "start": "2026-09-18",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=National%20Cheeseburger%20Day&message=%3Cbrand_name%3E%3A%20National%20Cheeseburger%20Day%20calls%20for%20something%20delicious!%20Get%20DISCOUNT%25%20OFF%20with%20code%20CODE.%20Treat%20yourself%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&utm_medium=broadcast"
+  },
+  {
+    "id": "1772649926558",
+    "title": "International Day of Peace",
+    "description": "Share what peace means. Remind subscribers gently about what's important while reinforcing brand values.",
+    "start": "2026-09-21",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=International%20Day%20of%20Peace&utm_medium=broadcast"
+  },
+  {
+    "id": "1772650253105",
+    "title": "First Day of Fall",
+    "description": "Kick off the new season with a special offer or product spotlight! It’s the perfect moment to get your subscribers excited to cozy up for fall.",
+    "start": "2026-09-22",
+    "end": "",
+    "type": "SMS",
+    "url": "",
+    "color": "#6d3ae6",
+    "broadcastUrl": "https://www.emotiveapp.co/broadcast?&title=First%20Day%20of%20Fall&message=%3Cbrand_name%3E%3A%20Fall%20has%20officially%20arrived.%20Celebrate%20with%20XX%25%20OFF%2C%20today%20only.%3A%20LINK%0A%0AReply%20STOP%20to%20opt%20out&imageUrl=https%3A%2F%2Fimages.ctfassets.net%2Fdhi2t25jmryf%2F11WnakLAlfg66OJH9WAF5Z%2Fd37ae99102758102eb54c2583a2bfddf%2FFirst_Day_of_Fall.gif&utm_medium=broadcast"
   }
 ]
